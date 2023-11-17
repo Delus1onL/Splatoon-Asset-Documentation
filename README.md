@@ -7,7 +7,7 @@ I started a project in March 2023 with the goal of porting Splatoon to the 3DS f
 # What's this?
 This will be where I explain and highlight what I find, as well as more in the future.
 
-# More Information???
+# Where can I find more information???
 Discord: https://discord.gg/JeP5zhujsg
 YouTube:
         mine (decomp): https://youtube.com/@Delus1on_L
