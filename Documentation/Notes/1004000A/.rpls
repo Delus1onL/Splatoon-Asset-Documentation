@@ -1,0 +1,24 @@
+Splatoon calls these external .rpl files directly:
+    - nlibcurl.rpl
+    - nsysnet.rpl
+    - gx2.rpl
+    - snd_core.rpl
+    - nn_acp.rpl
+    - nn_save.rpl
+    - vpad.rpl
+    - vpadbase.rpl
+    - proc_ui.rpl
+    - nn_ac.rpl
+    - padscore.rpl
+    - coreinit.rpl
+    - sysapp.rpl
+    - zlib125.rpl
+    - mic.rpl
+    - nn_act.rpl
+    - nn_olv.rpl
+    - nn_boss.rpl
+    - nn_fp.rpl
+    - nn_ndm.rpl
+    - nn_nfp.rpl
+These call their own .rpl files within 1004000A:
+    - (not here at the moment)
