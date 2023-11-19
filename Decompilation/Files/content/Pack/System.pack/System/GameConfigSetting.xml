@@ -139,33 +139,38 @@
 				defaultValue="false"/>
 			<parameter
 				name="StreamCacheSize"
-				nameJp="ストリームのキャッシュサイズ(KB)"
-				comment="80 - 160 が妥当らしい"
+				nameJp="Stream cache size (KB)"
+				comment="80 - 160 seems reasonable."
+				myComment="This probably does not work, but I still need to test"
 				valueType="s32"
 				defaultValue="160"/>
 			<parameter
 				name="CalcGameFrameRTC"
-				nameJp="ゲーム内時間をローカルでもRTCで計算(1分でのBGM変化確認用)"
+				nameJp="Calculate in-game time locally using RTC (for checking BGM changes in 1 minute)"
+				myComment="I do not know quite yet... seems like some timing thing"
 				valueType="bool"
 				defaultValue="false"/>
 			<parameter
 				name="SoundProcessCheck"
-				nameJp="ラウドネス等計測モード：0=無効、1=シーン自動計測、2=DebugMenuかORで手動計測（Develope以下限定。変更後は要ロム再起動）"
-				comment="0:無効、1:有効（各シーンを自動計測）、2:有効（DebugMenuかORから手動計測）"
+				nameJp="Loudness etc. measurement mode: 0=disable, 1=scene automatic measurement, 2=manual measurement with DebugMenu or OR (limited to Develope and below. Requires ROM restart after change)"
+				comment="0: Disable, 1: Enable (automatically measure each scene), 2: Enable (manually measure from DebugMenu or OR)"
+				myComment="Does not work? This is definitely for the debug menu"
 				valueType="u32"
 				defaultValue="0"/>
-		</category><!-- サウンドの終了タグ -->
+		</category><!-- "Sound" -->
 		<category name="Network">
 			<parameter
 				name="BossDownload"
-				nameJp="BOSSダウンロード有効？"
-				comment="0:ターゲット次第、1:必ずON、2:必ずOFF"
+				nameJp="Is BOSS download valid?"
+				comment="0: Depends on the target, 1: Always ON, 2: Always OFF"
+				myComment="This seems like you can set whether your console downloads the next map rotation set... idk tho"
 				valueType="s32"
 				defaultValue="0"/>
 			<parameter
 				name="NexLoginInBoot"
-				nameJp="BootでNEXログイン"
-				comment="0:ターゲット次第、1:必ずON、2:必ずOFF"
+				nameJp="NEX login with Boot"
+				comment="0: Depends on the target, 1: Always ON, 2: Always OFF"
+				myComment="This is how your Wii U connects online to other consoles."
 				valueType="s32"
 				defaultValue="0"/>
 			<parameter
