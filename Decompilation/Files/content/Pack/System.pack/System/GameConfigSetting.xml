@@ -5,44 +5,51 @@
 	<category name="root">
 		<parameter
 			name="CustomPartAddition"
-			nameJp="ギアや武器などの追加度合い"
-			comment="0:最初のロム、1:パッチ、2..:追加があれば使う"
+			nameJp="Addition of gear, weapons, etc"
+			comment="0: First ROM, 1: Patch, 2..: Use any additions"
+			myComment="No clue yet... outdated xml I believe"
 			valueType="s32"
 			defaultValue="0"
 			min="0"
 			max="1"/>
 		<parameter
 			name="FirstScene"
-			nameJp="最初に入るシーン名"
+			nameJp="First scene name"
+			myComment="If CorrectSeq = 2, FirstScene will load"
 			valueType="string"
 			defaultValue=""/>
 		<parameter
 			name="FirstMap"
-			nameJp="最初に自動で入るマップ名"
+			nameJp="Map name that is automatically entered at the beginning"
+			myComment="If FirstScene needs a map, what is it?"
 			valueType="string"
 			defaultValue=""/>
 		<parameter
 			name="CorrectSeq"
-			nameJp="正規シーケンス？"
-			comment="0:ターゲット次第、1:必ずON、2:必ずOFF"
+			nameJp="Canonical sequence?"
+			comment="0: Depends on the target, 1: Always ON, 2: Always OFF"
+			myComment="Will the game go to ZL+ZR, then news, or will it wait for FirstScene to be called?"
 			valueType="s32"
 			defaultValue="0"/>
 		<parameter
 			name="DayChangeCheck"
-			nameJp="DayChangeCheck有効？"
-			comment="0:ターゲット次第、1:必ずON、2:必ずOFF"
+			nameJp="Is DayChangeCheck valid?"
+			comment="0: Depends on the target, 1: Always ON, 2: Always OFF"
+			myComment="No clue at the moment"
 			valueType="s32"
 			defaultValue="0"/>
 		<parameter
 			name="FreeTestPlayerNum"
-			nameJp="FreeTestの人数(0のときは通常通り)"
+			nameJp="Number of people in FreeTest (if 0, it's normal)"
+			myComment="Seems like some sort of offline lobby parameter, but I do not know yet how to get it working or where"
 			valueType="s32"
 			defaultValue="0"
 			min="0"
 			max="8"/>
 		<parameter
 			name="DbgSimpleSeq"
-			nameJp="開発用のシンプルなシーケンスを使うかどうか"
+			nameJp="Whether to use simple sequences for development"
+			myComment="No clue at the moment"
 			valueType="bool"
 			defaultValue="true"/>
 		<parameter
