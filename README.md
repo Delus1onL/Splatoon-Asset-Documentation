@@ -16,8 +16,8 @@ YouTube:
 # General Documentation
 [![TVBootScreen](https://github.com/Delus1onL/Images/blob/main/TVBootScreen.png)]
 ## code(gambit.rpx, other rpls, etc)
-Go to [Code.md](https://github.com/Delus1onL) for more information.
+Go to [Code.md](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Code.md) for more information.
 ## content(files, whats in them, and what they are)
-Go to [Content.md](https://github.com/Delus1onL) for more information.
+Go to [Content.md](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Content.md) for more information.
 ## meta(boot content)
-Go to [Meta.md](https://github.com/Delus1onL) for more information.
+Go to [Meta.md](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Meta.md) for more information.
