@@ -14,4 +14,10 @@ YouTube:
         Team (devkitpro): https://www.youtube.com/@SplatoonLegends
 
 # General Documentation
-[![GamePadBootScreen](https://github.com/Delus1onL/Images/blob/main/GamePadBootScreen.png)]
+[![TVBootScreen](https://github.com/Delus1onL/Images/blob/main/TVBootScreen.png)]
+## code(gambit.rpx, other rpls, etc)
+Go to [Code.md](https://github.com/Delus1onL) for more information.
+## content(files, whats in them, and what they are)
+Go to [Content.md](https://github.com/Delus1onL) for more information.
+## meta(boot content)
+Go to [Meta.md](https://github.com/Delus1onL) for more information.
