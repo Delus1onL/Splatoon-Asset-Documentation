@@ -14,4 +14,4 @@ YouTube:
         Team (devkitpro): https://www.youtube.com/@SplatoonLegends
 
 # General Documentation
-('https://github.com/Delus1onL/Images/blob/main/GamePadBootScreen.png')
+[('https://github.com/Delus1onL/Images/blob/main/GamePadBootScreen.png')]
