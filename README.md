@@ -14,7 +14,7 @@ YouTube:
         Team (devkitpro): https://www.youtube.com/@SplatoonLegends
 
 # General Documentation
-[![TVBootScreen](https://github.com/Delus1onL/Images/blob/main/TVBootScreen.png)]
+![TVBootScreen](https://github.com/Delus1onL/Images/blob/main/TVBootScreen.png)
 ## code(gambit.rpx, other rpls, etc)
 Go to [Code.md](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Code.md) for more information.
 ## content(files, whats in them, and what they are)
