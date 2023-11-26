@@ -1,5 +1,5 @@
 # Content
-[![weapons](https://github.com/Delus1onL/Images/blob/main/Weaponsimg.png)]
+![weapons](https://github.com/Delus1onL/Images/blob/main/Weaponsimg.png)
 
 This will mainly go over content files, how to open them, what they are, file formats, etc.
 
@@ -13,8 +13,10 @@ This has the file "BmpFont_US.szs".
 
 ## Model
 
+This will get its own .md, to not flood this file. 
 ## Pack
 
+This will get its own .md, to not flood this file.
 ## Sound
 
 ## System
