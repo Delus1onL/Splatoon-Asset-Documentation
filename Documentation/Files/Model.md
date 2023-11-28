@@ -57,3 +57,73 @@ This will be divided into the following:
 ![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT002.png)
 - Was: Clt_JKT002.szs
 - Acquired: By buying from the clothes store
+### [name]
+
+![jkt4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT003.png)
+- Was: Clt_JKT003.szs
+- Acquired: By buying from the clothes store
+### [name]
+
+![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT004.png)
+- Was: Clt_JKT004.szs
+- Acquired: By buying from the clothes store
+### [name]
+
+![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT005.png)
+- Was: Clt_JKT005.szs
+- Acquired: By buying from the clothes store
+### [name]
+
+![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT006.png)
+- Was: Clt_JKT006.szs
+- Acquired: By buying from the clothes store
+### [name]
+
+![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT007.png)
+- Was: Clt_JKT007.szs
+- Acquired: By buying from the clothes store
+### [name]
+
+![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT008.png)
+- Was: Clt_JKT008.szs
+- Acquired: By buying from the clothes store
+### [name]
+
+![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT009.png)
+- Was: Clt_JKT009.szs
+- Acquired: By buying from the clothes store
+### [name]
+
+![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT010.png)
+- Was: Clt_JKT010.szs
+- Acquired: By buying from the clothes store
+### [name]
+
+![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT011.png)
+- Was: Clt_JKT011.szs
+- Acquired: By buying from the clothes store
+### [name]
+
+![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT012.png)
+- Was: Clt_JKT012.szs
+- Acquired: By buying from the clothes store
+### [name]
+
+![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT013.png)
+- Was: Clt_JKT013.szs
+- Acquired: By buying from the clothes store
+### [name]
+
+![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT014.png)
+- Was: Clt_JKT014.szs
+- Acquired: By buying from the clothes store
+### [name]
+
+![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT015.png)
+- Was: Clt_JKT015.szs
+- Acquired: By buying from the clothes store
+### [name]
+
+![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT016.png)
+- Was: Clt_JKT016.szs
+- Acquired: By buying from the clothes store
