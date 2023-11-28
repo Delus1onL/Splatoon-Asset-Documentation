@@ -37,3 +37,23 @@ This will be divided into the following:
 - Was: Clt_First_F.szs
 - Was: Clt_First_M.szs
 - Acquired: When you start a new game
+### "Invisible Tee"
+
+![unusedmaybe](https://github.com/Delus1onL/Images/blob/main/Models/Clt_Invisible.png)
+- Was: Clt_Invisible.szs
+- Acquired: Unused?
+### [name]
+
+![jkt1](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT000.png)
+- Was: Clt_JKT000.szs
+- Acquired: By buying from the clothes store
+### [name]
+
+![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT001.png)
+- Was: Clt_JKT001.szs
+- Acquired: By buying from the clothes store
+### [name]
+
+![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT002.png)
+- Was: Clt_JKT002.szs
+- Acquired: By buying from the clothes store
