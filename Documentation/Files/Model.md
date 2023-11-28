@@ -2,12 +2,14 @@
 [placeholder]
 
 This will be divided into the following:
-- Headgear  
+- [Headgear](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Model.md#headgear)
 - [Clothing](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Model.md#clothing)
-- Shoes    
-- Stages    
-- Objects  
-- (more)   
+- [Shoes](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Model.md#shoes)
+- [Stages](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Model.md#stages)
+- [Objects](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Model.md#objects)
+- [NPCs](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Model.md#npcs)
+- [Weapons](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Model.md#weapons)
+- (more)
 - Other
 
 ## Headgear
@@ -127,3 +129,23 @@ This will be divided into the following:
 ![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT016.png)
 - Was: Clt_JKT016.szs
 - Acquired: By buying from the clothes store
+### [name]
+
+![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_MSN004.png)
+- Was: Clt_MSN004.szs
+- Acquired: Completing Story Mode
+
+## Shoes
+### [name]
+
+![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_MSN004.png)
+- Was: Clt_MSN004.szs
+- Acquired: Completing Story Mode
+
+## Stages
+
+## Objects
+
+## NPCs
+
+## Weapons
