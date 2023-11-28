@@ -143,7 +143,12 @@ This will be divided into the following:
 - Acquired: Completing Story Mode
 
 ## Stages
+### Walleye Warehouse
+- Was: Fld_Warehouse00.szs
+- ID: 01
 
+![ware1](https://github.com/Delus1onL/Images/blob/main/Models/Fld_Warehouse001.png)
+![ware2](https://github.com/Delus1onL/Images/blob/main/Models/Fld_Warehouse002.png)
 ## Objects
 
 ## NPCs
