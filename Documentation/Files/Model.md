@@ -364,105 +364,105 @@ This will be divided into the following:
 - Was: Clt_TEL000_F.szs
 - Was: Clt_TEL000_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Black LS
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TEL001_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TEL001_M.png)
 - Was: Clt_TEL001_F.szs
 - Was: Clt_TEL001_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Purple Camo LS
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TEL002_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TEL002_M.png)
 - Was: Clt_TEL002_F.szs
 - Was: Clt_TEL002_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Navy Striped Ls
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TEL003_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TEL003_M.png)
 - Was: Clt_TEL003_F.szs
 - Was: Clt_TEL003_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Zekko Baseball LS
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TEL004_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TEL004_M.png)
 - Was: Clt_TEL004_F.szs
 - Was: Clt_TEL004_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Varsity Baseball LS
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TEL005_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TEL005_M.png)
 - Was: Clt_TEL005_F.szs
 - Was: Clt_TEL005_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Black Baseball LS
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TEL006_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TEL006_M.png)
 - Was: Clt_TEL006_F.szs
 - Was: Clt_TEL006_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## White Baseball LS
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TEL007_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TEL007_M.png)
 - Was: Clt_TEL007_F.szs
 - Was: Clt_TEL007_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## White LS
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TEL008_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TEL008_M.png)
 - Was: Clt_TEL008_F.szs
 - Was: Clt_TEL008_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Green Striped LS
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TEL009_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TEL009_M.png)
 - Was: Clt_TEL009_F.szs
 - Was: Clt_TEL009_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Squidmark LS
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TEL010_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TEL010_M.png)
 - Was: Clt_TEL010_F.szs
 - Was: Clt_TEL010_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Zink LS
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TEL011_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TEL011_M.png)
 - Was: Clt_TEL011_F.szs
 - Was: Clt_TEL011_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Striped Peaks LS
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TEL012_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TEL012_M.png)
 - Was: Clt_TEL012_F.szs
 - Was: Clt_TEL012_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## "Sumple LS"
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TEL013_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TEL013_M.png)
 - Was: Clt_TEL013_F.szs
 - Was: Clt_TEL013_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## White Tee
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES000_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES000_M.png)
 - Was: Clt_TES000_F.szs
 - Was: Clt_TES000_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Black Squideye
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES001_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES001_M.png)
@@ -475,337 +475,337 @@ This will be divided into the following:
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES002_M.png)
 - Was: Clt_TES002_F.szs
 - Was: Clt_TES002_M.szs
-- Acquired: By buying from the clothes store
-## [name]
+- Acquired: Unused
+## Sky-Blue Squideye
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES003_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES003_M.png)
 - Was: Clt_TES003_F.szs
 - Was: Clt_TES003_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Rockenberg White
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES004_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES004_M.png)
 - Was: Clt_TES004_F.szs
 - Was: Clt_TES004_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Rockenberg Black
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES005_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES005_M.png)
 - Was: Clt_TES005_F.szs
 - Was: Clt_TES005_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Black Tee
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES006_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES006_M.png)
 - Was: Clt_TES006_F.szs
 - Was: Clt_TES006_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Sunny-Day Tee
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES007_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES007_M.png)
 - Was: Clt_TES007_F.szs
 - Was: Clt_TES007_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Rainy-Day Tee
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES008_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES008_M.png)
 - Was: Clt_TES008_F.szs
 - Was: Clt_TES008_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## "Unused" Fugu Tee
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES009_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES009_M.png)
 - Was: Clt_TES009_F.szs
 - Was: Clt_TES009_M.szs
-- Acquired: By buying from the clothes store
-## [name]
+- Acquired: Unused
+## Fugu Tee
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES010_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES010_M.png)
 - Was: Clt_TES010_F.szs
 - Was: Clt_TES010_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Mint Tee
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES011_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES011_M.png)
 - Was: Clt_TES011_F.szs
 - Was: Clt_TES011_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Grape Tee
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES012_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES012_M.png)
 - Was: Clt_TES012_F.szs
 - Was: Clt_TES012_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Red Vector Tee
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES013_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES013_M.png)
 - Was: Clt_TES013_F.szs
 - Was: Clt_TES013_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Gray Vector Tee
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES014_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES014_M.png)
 - Was: Clt_TES014_F.szs
 - Was: Clt_TES014_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Blue Peaks Tee
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES015_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES015_M.png)
 - Was: Clt_TES015_F.szs
 - Was: Clt_TES015_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Ivory Peaks Tee
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES016_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES016_M.png)
 - Was: Clt_TES016_F.szs
 - Was: Clt_TES016_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Squid-Stitch Tee
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES017_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES017_M.png)
 - Was: Clt_TES017_F.szs
 - Was: Clt_TES017_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Pirate-Stripe Tee
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES018_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES018_M.png)
 - Was: Clt_TES018_F.szs
 - Was: Clt_TES018_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Sailor-Stripe Tee
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES019_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES019_M.png)
 - Was: Clt_TES019_F.szs
 - Was: Clt_TES019_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## White 8-Bit FishFry
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES020_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES020_M.png)
 - Was: Clt_TES020_F.szs
 - Was: Clt_TES020_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Black 8-Bit FishFry
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES021_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES021_M.png)
 - Was: Clt_TES021_F.szs
 - Was: Clt_TES021_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## White Anchor Tee
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES022_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES022_M.png)
 - Was: Clt_TES022_F.szs
 - Was: Clt_TES022_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Black Anchor Tee
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES023_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES023_M.png)
 - Was: Clt_TES023_F.szs
 - Was: Clt_TES023_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## White Line Tee
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES024_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES024_M.png)
 - Was: Clt_TES024_F.szs
 - Was: Clt_TES024_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Black Pipe Tee
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES025_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES025_M.png)
 - Was: Clt_TES025_F.szs
 - Was: Clt_TES025_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Carnivore Tee
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES026_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES026_M.png)
 - Was: Clt_TES026_F.szs
 - Was: Clt_TES026_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Pearl Tee
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES027_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES027_M.png)
 - Was: Clt_TES027_F.szs
 - Was: Clt_TES027_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Octo Tee
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES028_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES028_M.png)
 - Was: Clt_TES028_F.szs
 - Was: Clt_TES028_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Herbivore Tee
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES029_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES029_M.png)
 - Was: Clt_TES029_F.szs
 - Was: Clt_TES029_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## "Sumple Tee"
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES030_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TES030_M.png)
 - Was: Clt_TES030_F.szs
 - Was: Clt_TES030_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## White Layered LS
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TLY000_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TLY000_M.png)
 - Was: Clt_TLY000_F.szs
 - Was: Clt_TLY000_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Yellow Layered LS
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TLY001_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TLY001_M.png)
 - Was: Clt_TLY001_F.szs
 - Was: Clt_TLY001_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Camo Layered LS
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TLY002_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TLY002_M.png)
 - Was: Clt_TLY002_F.szs
 - Was: Clt_TLY002_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Black Layered LS
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TLY003_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TLY003_M.png)
 - Was: Clt_TLY003_F.szs
 - Was: Clt_TLY003_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Zink Layered LS
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TLY004_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TLY004_M.png)
 - Was: Clt_TLY004_F.szs
 - Was: Clt_TLY004_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Layered Anchor LS
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TLY005_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TLY005_M.png)
 - Was: Clt_TLY005_F.szs
 - Was: Clt_TLY005_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Choco Layered LS
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TLY006_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TLY006_M.png)
 - Was: Clt_TLY006_F.szs
 - Was: Clt_TLY006_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Part-Time Pirate
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TLY007_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TLY007_M.png)
 - Was: Clt_TLY007_F.szs
 - Was: Clt_TLY007_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Layered Vector LS
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TLY008_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TLY008_M.png)
 - Was: Clt_TLY008_F.szs
 - Was: Clt_TLY008_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Green Tee
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TLY009_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TLY009_M.png)
 - Was: Clt_TLY009_F.szs
 - Was: Clt_TLY009_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## "Sumple Layered LS"
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TLY010_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TLY010_M.png)
 - Was: Clt_TLY010_F.szs
 - Was: Clt_TLY010_M.szs
-- Acquired: By buying from the clothes store
-## [name]
+- Acquired: Unused
+## "Layered Sumple LS"
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TLY011_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TLY011_M.png)
 - Was: Clt_TLY011_F.szs
 - Was: Clt_TLY011_M.szs
-- Acquired: By buying from the clothes store
-## [name]
+- Acquired: Unused
+## B-ball Jersey (Home)
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TNK000.png)
 - Was: Clt_TNK000.szs
 - Acquired: By buying from the clothes store
-## [name]
+## B-ball Jersey (Away)
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TNK001_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TNK001_M.png)
 - Was: Clt_TNK001_F.szs
 - Was: Clt_TNK001_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## "Sumple Jersey"
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TNK002.png)
 - Was: Clt_TNK002.szs
-- Acquired: By buying from the clothes store
-## [name]
+- Acquired: Unused
+## SQUID GIRL Tunic
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TNK002_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TNK002_M.png)
 - Was: Clt_TNK002_F.szs
 - Was: Clt_TNK002_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Mountain Vest
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_VST000.png)
 - Was: Clt_VST000.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Forest Vest
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_VST001.png)
 - Was: Clt_VST001.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Dark Urban Vest
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_VST002.png)
 - Was: Clt_VST002.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Yellow Urban Vest
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_VST003.png)
 - Was: Clt_VST003.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Squid-Pattern Waistcoat
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_VST004.png)
 - Was: Clt_VST004.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Squidstar Waistcoat
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_VST005.png)
 - Was: Clt_VST005.szs
@@ -815,9 +815,9 @@ This will be divided into the following:
 # Shoes
 ## [name]
 
-![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_MSN004.png)
-- Was: Clt_MSN004.szs
-- Acquired: Completing Story Mode
+![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/SHO_First.png)
+- Was: .szs
+- Acquired: 
 
 # Stages
 ## Walleye Warehouse
