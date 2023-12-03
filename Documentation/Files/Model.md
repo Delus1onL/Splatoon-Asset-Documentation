@@ -44,7 +44,7 @@ This will be divided into the following:
 ![unusedmaybe](https://github.com/Delus1onL/Images/blob/main/Models/Clt_Invisible.png)
 - Was: Clt_Invisible.szs
 - Acquired: Unused?
-## [name]
+## Olive Ski Jacket
 
 ![jkt1](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT000.png)
 - Was: Clt_JKT000.szs
@@ -53,254 +53,254 @@ This will be divided into the following:
 
 ![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT001.png)
 - Was: Clt_JKT001.szs
-- Acquired: By buying from the clothes store
-## [name]
+- Acquired: Unused
+## Berry Ski Jacket
 
 ![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT002.png)
 - Was: Clt_JKT002.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Varisty Jacket
 
 ![jkt4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT003.png)
 - Was: Clt_JKT003.szs
 - Acquired: By buying from the clothes store
-## [name]
+## School Jersey
 
 ![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT004.png)
 - Was: Clt_JKT004.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Green Cardigan
 
 ![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT005.png)
 - Was: Clt_JKT005.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Black Inky Rider
 
 ![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT006.png)
 - Was: Clt_JKT006.szs
 - Acquired: By buying from the clothes store
-## [name]
+## White Inky Rider
 
 ![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT007.png)
 - Was: Clt_JKT007.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Retro Gamer Jersey
 
 ![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT008.png)
 - Was: Clt_JKT008.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Orange Cardigan
 
 ![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT009.png)
 - Was: Clt_JKT009.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Forge Inkling Parka
 
 ![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT010.png)
 - Was: Clt_JKT010.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Forge Octarian Jacket
 
 ![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT011.png)
 - Was: Clt_JKT011.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Blue Sailor Suit
 
 ![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT012.png)
 - Was: Clt_JKT012.szs
 - Acquired: By buying from the clothes store
-## [name]
+## White Sailor Suit
 
 ![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT013.png)
 - Was: Clt_JKT013.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Squid Satin Jacket
 
 ![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT014.png)
 - Was: Clt_JKT014.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Zapfish Satin Jacket
 
 ![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT015.png)
 - Was: Clt_JKT015.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Krak-On 528
 
 ![jkt3](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT016.png)
 - Was: Clt_JKT016.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Armor Jacket Replica
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_MSN004.png)
 - Was: Clt_MSN004.szs
 - Acquired: Completing Story Mode
-## [name]
+## Shrimp-Pink Polo
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_PLO000.png)
 - Was: Clt_PLO000.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Striped Rugby
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_PLO001.png)
 - Was: Clt_PLO001.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Tricolor Rugby
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_PLO002.png)
 - Was: Clt_PLO002.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Sage Polo
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_PLO003.png)
 - Was: Clt_PLO003.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Black Polo
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_PLO004.png)
 - Was: Clt_PLO004.szs
 - Acquired: By buying from the clothes store
-## [name]
+## "Sumple Shirt"
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_PLO005.png)
 - Was: Clt_PLO005.szs
 - Acquired: Unused
-## [name]
+## Cycling Shirt
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_PLO005_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_PLO005_M.png)
 - Was: Clt_PLO005_F.szs
 - Was: Clt_PLO005_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## "Sumple Shirt"
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_PLO006.png)
 - Was: Clt_PLO006.szs
 - Acquired: Unused
-## [name]
+## Cycle King Jersey
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_PLO006_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_PLO006_M.png)
 - Was: Clt_PLO006_F.szs
 - Was: Clt_PLO006_M.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Slipstream United
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_PLO007.png)
 - Was: Clt_PLO007.szs
 - Acquired: By buying from the clothes store
-## [name]
+## FC Albacore
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_PLO008.png)
 - Was: Clt_PLO008.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Camo Zip Hoodie
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_PRK000.png)
 - Was: Clt_PRK000.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Green Zip Hoodie
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_PRK001.png)
 - Was: Clt_PRK001.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Zekko Hoodie
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_PRK002.png)
 - Was: Clt_PRK002.szs
 - Acquired: By buying from the clothes store
-## [name]
+## CoroCoro Hoodie
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_PRK003.png)
 - Was: Clt_PRK003.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Octoling Armor
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_RVL000_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_RVL000_M.png)
 - Was: Clt_RVL000_F.szs
 - Was: Clt_RVL000_M.szs
 - Acquired: Do not remember at the moment
-## [name]
+## Lumberjack Shirt
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_SHT000.png)
 - Was: Clt_SHT000.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Rodeo Shirt
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_SHT001.png)
 - Was: Clt_SHT001.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Green-Check Shirt
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_SHT002.png)
 - Was: Clt_SHT002.szs
 - Acquired: By buying from the clothes store
-## [name]
+## White Shirt
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_SHT003.png)
 - Was: Clt_SHT003.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Urchins Jersey
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_SHT004.png)
 - Was: Clt_SHT004.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Aloha Shirt
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_SHT005.png)
 - Was: Clt_SHT005.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Red-Check Shirt
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_SHT006.png)
 - Was: Clt_SHT006.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Baby-Jelly Shirt
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_SHT007.png)
 - Was: Clt_SHT007.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Baseball Jersey
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_SHT008.png)
 - Was: Clt_SHT008.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Gray Mixed Shirt
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_SHT009.png)
 - Was: Clt_SHT009.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Vintage Check Shirt
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_SHT010.png)
 - Was: Clt_SHT010.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Round-Collar Shirt
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_SHT011.png)
 - Was: Clt_SHT011.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Logo Aloha Shirt
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_SHT012.png)
 - Was: Clt_SHT012.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Striped Shirt
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_SHT013.png)
 - Was: Clt_SHT013.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Linen Shirt
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_SHT014.png)
 - Was: Clt_SHT014.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Shirt & Tie
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_SHT015.png)
 - Was: Clt_SHT015.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Traditional Apron
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_SHT016.png)
 - Was: Clt_SHT016.szs
@@ -317,47 +317,47 @@ This will be divided into the following:
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_SUP001.png)
 - Was: Clt_SUP001.szs
 - Acquired: Unused
-## [name]
+## Gray College Sweat
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_SWT000.png)
 - Was: Clt_SWT000.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Squidmark Sweat
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_SWT001.png)
 - Was: Clt_SWT001.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Retro Sweat
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_SWT002.png)
 - Was: Clt_SWT002.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Firefin Navy Sweat
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_SWT003.png)
 - Was: Clt_SWT003.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Navy College Sweat
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_SWT004.png)
 - Was: Clt_SWT004.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Reel Sweat
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_SWT005.png)
 - Was: Clt_SWT005.szs
 - Acquired: By buying from the clothes store
-## [name]
+## Anchor Sweat
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_SWT006.png)
 - Was: Clt_SWT006.szs
 - Acquired: By buying from the clothes store
-## [name]
+## "Sumple Sweat"
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_SWT007.png)
 - Was: Clt_SWT007.szs
 - Acquired: Unused
-## [name]
+## White Striped LS
 
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TEL000_F.png)
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_TEL000_M.png)
