@@ -84,12 +84,6 @@ Each file has its own contents. Here is what each generally has, and what each t
      - works1
      - works2
 
-  ### a thing
-  ```js
-  function testDropdown(Splatoon) {
-    console.log('here', Splatoon);
-  }
-  ```
 </details>
 - ShootingRange.szs 
     - Crank.baglccrex (will not document yet, seems like it does nothing in-game)
