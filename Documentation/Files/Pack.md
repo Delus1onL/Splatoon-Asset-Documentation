@@ -79,8 +79,8 @@ Each file has its own contents. Here is what each generally has, and what each t
 <details>
   <summary>ShootingRange.szs</summary>
   <details>
-    <summary>Crank.baglccrex</summary>
-        - hi
+    <summary>   Crank.baglccrex</summary>
+        - hello
   </details>
 </details>
 - ShootingRange.szs 
