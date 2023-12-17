@@ -70,13 +70,14 @@ The Env.pack file contains an '.szs' file for every stage (I will use the word s
 
 ## Contents
 Each file has its own contents. Here is what each generally has, and what each term means. This will be shown as follows:
-file.szs->file directory-->name [datatype] / desc
+file.szs
+^^file directory
+^^^^^^^^...name [datatype] / desc
 
 
-'''
-## ShootingRange.szs
+ShootingRange.szs
+```
 ^^Crank.baglccrex
-
 ^^Crank.genvb
 ^^^^crank.baglccrex
 ^^^^^^param_root
@@ -120,6 +121,7 @@ file.szs->file directory-->name [datatype] / desc
 ^^^^crankday.bgsdw
 ^^^^crankday.baglccr
 ^^^^crankday.baglenv
+```
 ## Hiagari.szs
 ## MisCharge.szs
 ## Lobby.szs 
