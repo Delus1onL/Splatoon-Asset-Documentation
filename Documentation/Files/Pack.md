@@ -91,30 +91,30 @@ Each file has its own contents. Here is what each generally has, and what each t
           <summary>Objects {}</summary>
           <details>
             <summary>color_correction</summary>
-                        - enable [Boolean] / on or off
-                        - hue [float] / place
-                        - saturation [float] / how much light color is absorbed
-                        - brightness [float] / how bright
-                        - gamma [float] / place
-                        - toycam_enable [Boolean] / place
-                        - toycam_offset1 [Color4F] / R G B A float numbers(to 1.0)
-                        - toycam_offset2 [Color4F] / R G B A float numbers(to 1.0)
-                        - toycam_level1 [Color4F] / R G B A float numbers(to 1.0)
-                        - toycam_level2 [Color4F] / R G B A float numbers(to 1.0)
-                        - toycam_saturation1 [float] / place
-                        - toycam_saturation2 [float] / place
-                        - toycam_brightness [float] / place
-                        - toycam_contrast [float] / place
-                        - toycam_mul_color [Color4F] / place
-                        - level [Curve4] / place
+                        * enable [Boolean] / on or off
+                        * hue [float] / place
+                        * saturation [float] / how much light color is absorbed
+                        * brightness [float] / how bright
+                        * gamma [float] / place
+                        * toycam_enable [Boolean] / place
+                        * toycam_offset1 [Color4F] / R G B A float numbers(to 1.0)
+                        * toycam_offset2 [Color4F] / R G B A float numbers(to 1.0)
+                        * toycam_level1 [Color4F] / R G B A float numbers(to 1.0)
+                        * toycam_level2 [Color4F] / R G B A float numbers(to 1.0)
+                        * toycam_saturation1 [float] / place
+                        * toycam_saturation2 [float] / place
+                        * toycam_brightness [float] / place
+                        * toycam_contrast [float] / place
+                        * toycam_mul_color [Color4F] / place
+                        * level [Curve4] / place
           </details>
           <details>
             <summary>2921014748</summary>
-                        - 674039309 [float] / place
-                        - 3461196268 [float] / place
-                        - 3756975577 [float] / place
-                        - 2379954372 [float] / place
-                        - 4009682607 [float] / place
+                        * 674039309 [float] / place
+                        * 3461196268 [float] / place
+                        * 3756975577 [float] / place
+                        * 2379954372 [float] / place
+                        * 4009682607 [float] / place
           </details>
         </details>
       </details>
