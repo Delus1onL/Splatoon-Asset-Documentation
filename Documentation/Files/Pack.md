@@ -73,7 +73,7 @@ Each file has its own contents. Here is what each generally has, and what each t
 file.szs->file directory-->name [datatype] / desc
 
 
-        <details>
+<details>
             <summary>ShootingRange.szs</summary>
             <details>
                 <summary>Crank.baglccrex</summary>
@@ -168,7 +168,7 @@ file.szs->file directory-->name [datatype] / desc
                         <summary>crankday.baglenv</summary>
                         </details>
                 </details>
-            </details>
+</details>
 - Hiagari.szs
 - MisCharge.szs
 - Lobby.szs 
