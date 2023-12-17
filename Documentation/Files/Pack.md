@@ -76,6 +76,7 @@ file.szs->file directory-->name [datatype] / desc
 '''
 ## ShootingRange.szs
 ^^Crank.baglccrex
+
 ^^Crank.genvb
 ^^^^crank.baglccrex
 ^^^^^^param_root
