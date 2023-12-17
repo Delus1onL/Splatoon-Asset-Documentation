@@ -68,6 +68,101 @@ The Env.pack file contains an '.szs' file for every stage (I will use the word s
 - VSFinalResult.szs (Win-Lose Screen(?))
 - MisSkyTwilight.szs (place)
 
+## Contents
+Each file has its own contents. Here is what each generally has, and what each term means. This will be shown as follows:
+- file.szs
+    - file directory
+        - file directory
+            - so on
+                - name [datatype] / Desc
+               
+- ShootingRange.szs 
+    - Crank.baglccrex (will not document yet, seems like it does nothing in-game)
+    - Crank.genvb
+        - crank.baglccrex
+            - param_root
+                - Objects {}
+                    - color_correction
+                        - enable [Boolean] / on or off
+                        - hue [float] / place
+                        - saturation [float] / how much light color is absorbed
+                        - brightness [float] / how bright
+                        - gamma [float] / place
+                        - toycam_enable [Boolean] / place
+                        - toycam_offset1 [Color4F] / R G B A float numbers(to 1.0)
+                        - toycam_offset2 [Color4F] / R G B A float numbers(to 1.0)
+                        - toycam_level1 [Color4F] / R G B A float numbers(to 1.0)
+                        - toycam_level2 [Color4F] / R G B A float numbers(to 1.0)
+                        - toycam_saturation1 [float] / place
+                        - toycam_saturation2 [float] / place
+                        - toycam_brightness [float] / place
+                        - toycam_contrast [float] / place
+                        - toycam_mul_color [Color4F] / place
+                        - level [Curve4] / place
+                    - 2921014748
+                        - 674039309 [float] / place
+                        - 3461196268 [float] / place
+                        - 3756975577 [float] / place
+                        - 2379954372 [float] / place
+                        - 4009682607 [float] / place
+        - crank.bgenv
+        - cranknight.baglenv
+        - crank.baglenvset
+        - cranknight.bglght
+        - common.baglenv
+        - crankday.baglatex
+        - vr_model.txt
+        - crank.baglcube
+        - crankday.bglght
+        - crankday.bgsdw
+        - crankday.baglccr
+        - crankday.baglenv
+- Hiagari.szs
+- MisCharge.szs
+- Lobby.szs 
+- RailKing.szs 
+- Jyoheki.szs
+- SeaPlant.szs
+- World.szs
+- LytSys.szs
+- CapPaneCmn.szs
+- MisDozer.szs 
+- LytCmn.szs
+- LytHUD.szs
+- Pivot.szs 
+- Plaza.szs 
+- Cmn.szs 
+- MisSkyGreen.szs
+- MisSkyGray.szs 
+- MisSkyGalaxy.szs 
+- MisBattle.szs 
+- Customize.szs
+- MisSkySunset.szs 
+- MisSkyDay01.szs
+- Mouthking.szs 
+- MisSkyNight.szs
+- IconCapture.szs
+- Athletic.szs 
+- Ruins.szs 
+- Warehouse.szs
+- Kaisou.szs 
+- Tuzura.szs 
+- SkatePark.szs 
+- Office.szs
+- CmnMiniMap.szs 
+- CylinderKing.szs
+- MisMonitorBroken.szs
+- Tutorial.szs 
+- Crank.szs 
+- Maze.szs
+- Shop.szs 
+- UpDown.szs 
+- Quarry.szs
+- Amida.szs 
+- Stampking.szs
+- MisSkyDay.szs
+- VSFinalResult.szs
+- MisSkyTwilight.szs
 
 # Layout.pack
 place
