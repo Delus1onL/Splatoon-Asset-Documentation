@@ -75,15 +75,13 @@ Each file has its own contents. Here is what each generally has, and what each t
         - file directory
             - so on
                 - name [datatype] / Desc
-<details>
-  <summary>Test here</summary>
-  
-  ### Splatoon2
-  1. testy
-  2. testy2
-     - works1
-     - works2
 
+<details>
+  <summary>ShootingRange.szs</summary>
+  <details>
+    <summary>Crank.baglccrex</summary>
+        - hi
+  </details>
 </details>
 - ShootingRange.szs 
     - Crank.baglccrex (will not document yet, seems like it does nothing in-game)
