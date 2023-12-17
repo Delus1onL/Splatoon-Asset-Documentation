@@ -70,11 +70,8 @@ The Env.pack file contains an '.szs' file for every stage (I will use the word s
 
 ## Contents
 Each file has its own contents. Here is what each generally has, and what each term means. This will be shown as follows:
-- file.szs
-    - file directory
-        - file directory
-            - so on
-                - name [datatype] / Desc
+file.szs->file directory-->name [datatype] / desc
+
 
         <details>
             <summary>ShootingRange.szs</summary>
@@ -121,6 +118,21 @@ Each file has its own contents. Here is what each generally has, and what each t
                     </details>
                     <details>
                         <summary>crank.bgenv</summary>
+                        <details>
+                          <summary>param_root</summary>
+                          <details>
+                            <summary>List {}</summary>
+                            <details>
+                              <summary>convert_parts_array</summary>
+                            </details>
+                            <details>
+                              <summary>normal_parts_array</summary>
+                            </details>
+                            <details>
+                              <summary>set_array</summary>
+                            </details>
+                        </details>
+                        </details>
                     </details>
                     <details>
                         <summary>cranknight.baglenv</summary>
