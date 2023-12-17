@@ -75,7 +75,22 @@ Each file has its own contents. Here is what each generally has, and what each t
         - file directory
             - so on
                 - name [datatype] / Desc
-               
+<details>
+  <summary>Test here</summary>
+  
+  ### Splatoon2
+  1. testy
+  2. testy2
+     - works1
+     - works2
+
+  ### a thing
+  ```js
+  function testDropdown(Splatoon) {
+    console.log('here', Splatoon);
+  }
+  ```
+</details>
 - ShootingRange.szs 
     - Crank.baglccrex (will not document yet, seems like it does nothing in-game)
     - Crank.genvb
