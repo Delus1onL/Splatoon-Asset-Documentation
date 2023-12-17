@@ -79,10 +79,16 @@ Each file has its own contents. Here is what each generally has, and what each t
 <details>
   <summary>ShootingRange.szs</summary>
   <details>
-    <summary>           Crank.baglccrex</summary>
+    <summary>Crank.baglccrex</summary>
+  </details>
+  <details>
+    <summary>Crank.genvb</summary>
     <details>
-      <summary>                     param_root</summary>
+      <summary>crank.baglccrex</summary>
+      <details>
+        <summary>param_root</summary>
       </details>
+    </details>
   </details>
 </details>
 - ShootingRange.szs 
