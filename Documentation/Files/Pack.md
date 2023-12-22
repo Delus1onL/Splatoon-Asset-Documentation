@@ -1,16 +1,16 @@
 # Pack
 
 This will be ordered like this:
-- [Enemy.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#enemy.pack)
-- [Env.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#env.pack)
-- [Layout.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#layout.pack)
-- [Obj.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#obj.pack)
-- [ObjSmall.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#objsmall.pack)
-- [Player.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#player.pack)
-- [Sound.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#sound.pack)
-- [Static.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#static.pack)
-- [System.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#system.pack)
-- [Weapon.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#weapon.pack)
+- [Enemy.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#enemypack)
+- [Env.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#envpack)
+- [Layout.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#layoutpack)
+- [Obj.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#objpack)
+- [ObjSmall.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#objsmallpack)
+- [Player.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#playerpack)
+- [Sound.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#soundpack)
+- [Static.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#staticpack)
+- [System.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#systempack)
+- [Weapon.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#weaponpack)
 
 # Enemy.pack
 place
@@ -60,10 +60,10 @@ The Env.pack file contains an '.szs' file for every stage (I will use the word s
 - Tutorial.szs (Tutorial)
 - Crank.szs (Urchin Underpass)
 - Maze.szs (Kelp Dome)
-- Shop.szs (place)
-- UpDown.szs (place)
-- Quarry.szs (place)
-- Amida.szs (place)
+- Shop.szs (Weapons Shop, Gear Shop, Tshirts Shop, Shoes Shop)
+- UpDown.szs (Arowana Mall)
+- Quarry.szs (Piranha Pit)
+- Amida.szs (Port Mackerel)
 - Stampking.szs (place)
 - MisSkyDay.szs (place)
 - VSFinalResult.szs (Win-Lose Screen(?))
@@ -124,52 +124,52 @@ ShootingRange.szs
 ^^^^crankday.baglccr
 ^^^^crankday.baglenv
 ```
-## Hiagari.szs
-## MisCharge.szs
-## Lobby.szs 
-## RailKing.szs 
-## Jyoheki.szs
-## SeaPlant.szs
-## World.szs
-## LytSys.szs
-## CapPaneCmn.szs
-## MisDozer.szs 
-## LytCmn.szs
-## LytHUD.szs
-## Pivot.szs 
-## Plaza.szs 
-## Cmn.szs 
-## MisSkyGreen.szs
-## MisSkyGray.szs 
-## MisSkyGalaxy.szs 
-## MisBattle.szs 
-## Customize.szs
-## MisSkySunset.szs 
-## MisSkyDay01.szs
-## Mouthking.szs 
-## MisSkyNight.szs
-## IconCapture.szs
-## Athletic.szs 
-## Ruins.szs 
-## Warehouse.szs 
-## Kaisou.szs 
-## Tuzura.szs 
-## SkatePark.szs 
-## Office.szs
-## CmnMiniMap.szs 
-## CylinderKing.szs
-## MisMonitorBroken.szs
-## Tutorial.szs 
-## Crank.szs 
-## Maze.szs
-## Shop.szs 
-## UpDown.szs 
-## Quarry.szs
-## Amida.szs 
-## Stampking.szs
-## MisSkyDay.szs
-## VSFinalResult.szs
-## MisSkyTwilight.szs
+Hiagari.szs
+MisCharge.szs
+Lobby.szs 
+RailKing.szs 
+Jyoheki.szs
+SeaPlant.szs
+World.szs
+LytSys.szs
+CapPaneCmn.szs
+MisDozer.szs 
+LytCmn.szs
+LytHUD.szs
+Pivot.szs 
+Plaza.szs 
+Cmn.szs 
+MisSkyGreen.szs
+MisSkyGray.szs 
+MisSkyGalaxy.szs 
+MisBattle.szs 
+Customize.szs
+MisSkySunset.szs 
+MisSkyDay01.szs
+Mouthking.szs 
+MisSkyNight.szs
+IconCapture.szs
+Athletic.szs 
+Ruins.szs 
+Warehouse.szs 
+Kaisou.szs 
+Tuzura.szs 
+SkatePark.szs 
+Office.szs
+CmnMiniMap.szs 
+CylinderKing.szs
+MisMonitorBroken.szs
+Tutorial.szs 
+Crank.szs 
+Maze.szs
+Shop.szs 
+UpDown.szs 
+Quarry.szs
+Amida.szs 
+Stampking.szs
+MisSkyDay.szs
+VSFinalResult.szs
+MisSkyTwilight.szs
 
 # Layout.pack
 This deals with the UI/HUD elements of the game. For example, the title screen or the gamepad's layout.
