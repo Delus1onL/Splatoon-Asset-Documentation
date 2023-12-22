@@ -172,7 +172,12 @@ ShootingRange.szs
 ## MisSkyTwilight.szs
 
 # Layout.pack
-place
+This deals with the UI/HUD elements of the game. For example, the title screen or the gamepad's layout.
+
+|GambitPatternS_02^r.bflim|HomeGroundUp^q.bflim|Light_01^s.bflim|ResultMeter_00^f.bflim|
+----------------------
+|![img](https://github.com/Delus1onL/Images/blob/main/layout/AddRoomBtn_00/AddRoomBtn_00/GambitPatternS_02%5Er.bflim.png)|![img](https://github.com/Delus1onL/Images/blob/main/layout/AddRoomBtn_00/AddRoomBtn_00/GambitPatternS_02%5Er.bflim.png)|![img](https://github.com/Delus1onL/Images/blob/main/layout/AddRoomBtn_00/AddRoomBtn_00/GambitPatternS_02%5Er.bflim.png)|![img](https://github.com/Delus1onL/Images/blob/main/layout/AddRoomBtn_00/AddRoomBtn_00/GambitPatternS_02%5Er.bflim.png)|
+
 # Obj.pack
 place
 # ObjSmall.pack
