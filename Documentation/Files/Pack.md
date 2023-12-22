@@ -174,9 +174,10 @@ ShootingRange.szs
 # Layout.pack
 This deals with the UI/HUD elements of the game. For example, the title screen or the gamepad's layout.
 
+###AddRoomBtn_00
 |GambitPatternS_02^r.bflim|HomeGroundUp^q.bflim|Light_01^s.bflim|ResultMeter_00^f.bflim|
 |------------|------------|------------|------------|
-|![img](https://github.com/Delus1onL/Images/blob/main/layout/AddRoomBtn_00/AddRoomBtn_00/GambitPatternS_02%5Er.bflim.png)|![img](https://github.com/Delus1onL/Images/blob/main/layout/AddRoomBtn_00/AddRoomBtn_00/GambitPatternS_02%5Er.bflim.png)|![img](https://github.com/Delus1onL/Images/blob/main/layout/AddRoomBtn_00/AddRoomBtn_00/GambitPatternS_02%5Er.bflim.png)|![img](https://github.com/Delus1onL/Images/blob/main/layout/AddRoomBtn_00/AddRoomBtn_00/GambitPatternS_02%5Er.bflim.png)|
+|![img](https://github.com/Delus1onL/Images/blob/main/layout/AddRoomBtn_00/AddRoomBtn_00/GambitPatternS_02%5Er.bflim.png)|![img](https://github.com/Delus1onL/Images/blob/main/layout/AddRoomBtn_00/AddRoomBtn_00/HomeGroundUp%5Eq.bflim.png)|![img](https://github.com/Delus1onL/Images/blob/main/layout/AddRoomBtn_00/AddRoomBtn_00/Light_01%5Es.bflim.png)|![img](https://github.com/Delus1onL/Images/blob/main/layout/AddRoomBtn_00/AddRoomBtn_00/ResultMeter_00%5Ef.bflim.png)|
 
 # Obj.pack
 place
