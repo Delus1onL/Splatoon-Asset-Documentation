@@ -13,7 +13,7 @@ This will be ordered like this:
 - [Weapon.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#weaponpack)
 
 # Enemy.pack
-place
+These are the models and animations related to the enemies in Story Mode.
 # Env.pack
 This pack deals specifically with the environments of all stages, as far as sun location, skydome, lighting color, intensities, brightnesses, etc.
 
@@ -125,51 +125,189 @@ ShootingRange.szs
 ^^^^crankday.baglenv
 ```
 Hiagari.szs
+```
+place
+```
 MisCharge.szs
+```
+place
+```
 Lobby.szs 
+```
+place
+```
 RailKing.szs 
+```
+place
+```
 Jyoheki.szs
+```
+place
+```
 SeaPlant.szs
+```
+place
+```
 World.szs
+```
+place
+```
 LytSys.szs
+```
+place
+```
 CapPaneCmn.szs
+```
+place
+```
 MisDozer.szs 
+```
+place
+```
 LytCmn.szs
+```
+place
+```
 LytHUD.szs
+```
+place
+```
 Pivot.szs 
+```
+place
+```
 Plaza.szs 
+```
+place
+```
 Cmn.szs 
+```
+place
+```
 MisSkyGreen.szs
+```
+place
+```
 MisSkyGray.szs 
+```
+place
+```
 MisSkyGalaxy.szs 
+```
+place
+```
 MisBattle.szs 
+```
+place
+```
 Customize.szs
+```
+place
+```
 MisSkySunset.szs 
+```
+place
+```
 MisSkyDay01.szs
+```
+place
+```
 Mouthking.szs 
+```
+place
+```
 MisSkyNight.szs
+```
+place
+```
 IconCapture.szs
+```
+place
+```
 Athletic.szs 
+```
+place
+```
 Ruins.szs 
+```
+place
+```
 Warehouse.szs 
+```
+place
+```
 Kaisou.szs 
+```
+place
+```
 Tuzura.szs 
+```
+place
+```
 SkatePark.szs 
+```
+place
+```
 Office.szs
+```
+place
+```
 CmnMiniMap.szs 
+```
+place
+```
 CylinderKing.szs
+```
+place
+```
 MisMonitorBroken.szs
+```
+place
+```
 Tutorial.szs 
+```
+place
+```
 Crank.szs 
+```
+place
+```
 Maze.szs
+```
+place
+```
 Shop.szs 
+```
+place
+```
 UpDown.szs 
+```
+place
+```
 Quarry.szs
+```
+place
+```
 Amida.szs 
+```
+place
+```
 Stampking.szs
+```
+place
+```
 MisSkyDay.szs
+```
+place
+```
 VSFinalResult.szs
+```
+place
+```
 MisSkyTwilight.szs
+```
+place
+```
 
 # Layout.pack
 This deals with the UI/HUD elements of the game. For example, the title screen or the gamepad's layout.
@@ -194,11 +332,11 @@ place
 # ObjSmall.pack
 place
 # Player.pack
-place
+This has multiple things, like the inkling models, octoling models, hidden Miiverse posts, paint textures, and more.
 # Sound.pack
-place
+This holds the sound effects the game uses. (At least most of them; some of them are saved as stream files, or .bfstm files, in the /content/Sound/Resources/Stream directory.)
 # Static.pack
-place
+This deals with a lot of parameters, like weapons (how they shoot), maps (object layout), and more.
 # System.pack
 place
 # Weapon.pack
