@@ -21,6 +21,7 @@ This pack deals specifically with the environments of all stages, as far as sun 
 The Env.pack file contains an '.szs' file for every stage (I will use the word scene from here on out). This is the order of those files:
 <details>
   <summary>Order</summary>
+  ```
 - ShootingRange.szs (Shooting Range)
 - Hiagari.szs (Mahi-Mahi Resort)
 - MisCharge.szs (place)
@@ -68,6 +69,7 @@ The Env.pack file contains an '.szs' file for every stage (I will use the word s
 - MisSkyDay.szs (place)
 - VSFinalResult.szs (Win-Lose Screen(?))
 - MisSkyTwilight.szs (place)
+```
 </details>
 
 ## Contents
