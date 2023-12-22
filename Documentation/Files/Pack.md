@@ -202,4 +202,9 @@ place
 # System.pack
 place
 # Weapon.pack
-place
+This pack holds all the weapons originally released with the game, without updates, whereas the rest of the weapons are singular models in the "/content/Models" directory.
+
+## E-Liter 3K (EU: E-Litre 3K)
+![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
+- Was: Wmn_Charge_Long.szs
+- Acquired: Weapons Shop

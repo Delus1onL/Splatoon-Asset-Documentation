@@ -43,7 +43,7 @@ This will be divided into the following:
 
 ![unusedmaybe](https://github.com/Delus1onL/Images/blob/main/Models/Clt_Invisible.png)
 - Was: Clt_Invisible.szs
-- Acquired: Unused?
+- Acquired: Unused
 ## Olive Ski Jacket
 
 ![jkt1](https://github.com/Delus1onL/Images/blob/main/Models/Clt_JKT000.png)
