@@ -20,12 +20,5 @@ This will get its own .md, to not overshadow other information in this file: [Mo
 This will get its own .md, to not overshadow other information in this file: [Pack.md](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md)
 ## Sound
 
-This is obviously related to sound within the game. This has two parts: Boss sound effects, and audio files streamed to RAM, meaning soundtracks like `Splattack!` or `Calamari Inkantation`. Before this though, there is a file called `DummySound.bfsar` in `/content/Sound/`. This is exactly what the name suggests: a dummy file that does not contain sound files.
-
-### Sound Effects
-    These are in this folder in the directory `/content/Sound/Resource/`.
-### Soundtracks
-    These are in this folder in the directory `/content/Sound/Resource/Stream/`. There is a file called `DummySound.bfsar` in Resources. This is exactly as it suggests: a dummy file that does not contain sound files.
-
-![MusicTest](https://github.com/Delus1onL/Images/blob/main/Audio/STRM_VSTEST.wav)
+This will get its own `.md`.
 ## System
