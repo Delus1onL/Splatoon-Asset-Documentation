@@ -334,7 +334,7 @@ place
 # Player.pack
 This has multiple things, like the inkling models, octoling models, hidden Miiverse posts, paint textures, and more.
 # Sound.pack
-This holds the sound effects the game uses. (At least most of them; some of them are saved as stream files, or .bfstm files, in the /content/Sound/Resources/Stream directory.)
+This holds most of the sound effects the game uses. (At least most of them; some of them are saved as stream files, or .bfstm files, in the /content/Sound/Resources/Stream directory.)
 # Static.pack
 This deals with a lot of parameters, like weapons (how they shoot), maps (object layout), and more.
 # System.pack
