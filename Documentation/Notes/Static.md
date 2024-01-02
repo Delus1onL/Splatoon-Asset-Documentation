@@ -1429,7 +1429,6 @@ Root
 ### PhotographPlayerInfo.byaml
 ### PlayerRank.byaml
 This is the amount of XP needed for the next level relative to what you have.
-```
 Root
 - Branch #1
   - XP: 700
@@ -1531,7 +1530,6 @@ Root
   - XP: 720
 - Branch #50
   - XP: 0
-```
 ### RailKingSchedule.byaml
 ### RankBonusItem.byaml
 This deals with the special items you can get based on your level, which was (probably) added at the same time the change of the max level was changed (Lvl.20->Lvl.50)
@@ -1560,8 +1558,7 @@ Root
 ### TankInfo.byaml
 ### TipsTextInfo.byaml
 ### UdemaeGrade.byaml
-This goes over the ranking system, from C- to S+. This list gives how far each rank is from the other by 2's until it is 8, loss amount, and more.
-```
+This goes over the ranking system, from C- to S+. This list gives relative value, knockout bonus, win points, lose points, etc.
 Root
 - Branch #1
   - Rank: C-
@@ -1629,8 +1626,182 @@ Root
   - A+: 8
   - S: 8
   - S+: 8
-
-```
+- Branch #4
+  - Rank: B-
+  - Value: 20
+  - Knockout Win XP: 2300
+  - Win XP: 2000
+  - WinBasePoint0: 12
+  - WinBasePoint1: 10
+  - WinBasePoint2: 10
+  - LoseBasePoint0: -8
+  - LoseBasePoint1: -10
+  - LoseBasePoint1: -12
+  - C-: -2
+  - C: -2
+  - C+: 0
+  - B-: 0
+  - B: 2
+  - B+: 4
+  - A-: 6
+  - A: 8
+  - A+: 8
+  - S: 8
+  - S+: 8
+- Branch #5
+  - Rank: B
+  - Value: 24
+  - Knockout Win XP: 2600
+  - Win XP: 2300
+  - WinBasePoint0: 12
+  - WinBasePoint1: 10
+  - WinBasePoint2: 10
+  - LoseBasePoint0: -8
+  - LoseBasePoint1: -10
+  - LoseBasePoint1: -12
+  - C-: -4
+  - C: -4
+  - C+: -2
+  - B-: -2
+  - B: 0
+  - B+: 3
+  - A-: 4
+  - A: 6
+  - A+: 8
+  - S: 8
+  - S+: 8
+- Branch #6
+  - Rank: B+
+  - Value: 29
+  - Knockout Win XP: 3000
+  - Win XP: 2600
+  - WinBasePoint0: 12
+  - WinBasePoint1: 10
+  - WinBasePoint2: 10
+  - LoseBasePoint0: -8
+  - LoseBasePoint1: -10
+  - LoseBasePoint1: -12
+  - C-: -6
+  - C: -6
+  - C+: -6
+  - B-: -4
+  - B: -2
+  - B+: 0
+  - A-: 2
+  - A: 4
+  - A+: 6
+  - S: 8
+  - S+: 8
+- Branch #7
+  - Rank: A-
+  - Value: 35
+  - Knockout Win XP: 3300
+  - Win XP: 3000
+  - WinBasePoint0: 12
+  - WinBasePoint1: 10
+  - WinBasePoint2: 8
+  - LoseBasePoint0: -8
+  - LoseBasePoint1: -10
+  - LoseBasePoint1: -12
+  - C-: -8
+  - C: -8
+  - C+: -8
+  - B-: -6
+  - B: -4
+  - B+: -3
+  - A-: 0
+  - A: 2
+  - A+: 4
+  - S: 6
+  - S+: 8
+- Branch #8
+  - Rank: A
+  - Value: 41
+  - Knockout Win XP: 3600
+  - Win XP: 3300
+  - WinBasePoint0: 12
+  - WinBasePoint1: 10
+  - WinBasePoint2: 8
+  - LoseBasePoint0: -8
+  - LoseBasePoint1: -10
+  - LoseBasePoint1: -12
+  - C-: -8
+  - C: -8
+  - C+: -8
+  - B-: -8
+  - B: -6
+  - B+: -4
+  - A-: -2
+  - A: 0
+  - A+: 2
+  - S: 4
+  - S+: 6
+- Branch #9
+  - Rank: A+
+  - Value: 50
+  - Knockout Win XP: 4000
+  - Win XP: 3600
+  - WinBasePoint0: 12
+  - WinBasePoint1: 10
+  - WinBasePoint2: 8
+  - LoseBasePoint0: -8
+  - LoseBasePoint1: -10
+  - LoseBasePoint1: -12
+  - C-: -8
+  - C: -8
+  - C+: -8
+  - B-: -8
+  - B: -8
+  - B+: -6
+  - A-: -4
+  - A: -2
+  - A+: 0
+  - S: 2
+  - S+: 4
+- Branch #10
+  - Rank: S
+  - Value: 60
+  - Knockout Win XP: 5000
+  - Win XP: 4000
+  - WinBasePoint0: 5
+  - WinBasePoint1: 4
+  - WinBasePoint2: 4
+  - LoseBasePoint0: -5
+  - LoseBasePoint1: -5
+  - LoseBasePoint1: -6
+  - C-: -8
+  - C: -8
+  - C+: -8
+  - B-: -8
+  - B: -8
+  - B+: -8
+  - A-: -6
+  - A: -4
+  - A+: -2
+  - S: 0
+  - S+: 1
+- Branch #11
+  - Rank: S+
+  - Value: 70
+  - Knockout Win XP: 6000
+  - Win XP: 5000
+  - WinBasePoint0: 4
+  - WinBasePoint1: 3
+  - WinBasePoint2: 2
+  - LoseBasePoint0: -4
+  - LoseBasePoint1: -5
+  - LoseBasePoint1: -5
+  - C-: -8
+  - C: -8
+  - C+: -8
+  - B-: -8
+  - B: -8
+  - B+: -8
+  - A-: -8
+  - A: -6
+  - A+: -4
+  - S: -1
+  - S+: 0
 ### WeaponInfo_Main.byaml
 ### WeaponInfo_Special.byaml
 ### WeaponInfo_Sub.byaml
