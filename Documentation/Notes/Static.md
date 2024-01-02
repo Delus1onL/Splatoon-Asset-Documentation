@@ -1533,7 +1533,7 @@ Root
 ### RailKingSchedule.byaml
 ### RankBonusItem.byaml
 This deals with the special items you can get based on your level, which was (probably) added at the same time the change of the max level was changed (Lvl.20->Lvl.50)
-```
+
 Root
 - Branch #1
   - Item: MSN004 (Headgear)
@@ -1553,7 +1553,7 @@ Root
 - Branch #6
   - Item: CAP015 (Headgear)
   - Level: 50
-```
+
 ### Skill_Icon.byaml
 ### TankInfo.byaml
 ### TipsTextInfo.byaml
