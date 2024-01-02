@@ -2,14 +2,14 @@
 [placeholder]
 
 This will be divided into the following:
-- [Headgear](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Model.md#headgear)
-- [Clothing](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Model.md#clothing)
-- [Shoes](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Model.md#shoes)
-- [Stages](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Model.md#stages)
-- [Objects](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Model.md#objects)
+- [Headgear](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Model.md#headgear)
+- [Clothing](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Model.md#clothing)
+- [Shoes](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Model.md#shoes)
+- [Stages](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Model.md#stages)
+- [Objects](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Model.md#objects)
 - [`LFT`s]
-- [NPCs](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Model.md#npcs)
-- [Weapons](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Model.md#weapons)
+- [NPCs](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Model.md#npcs)
+- [Weapons](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Model.md#weapons)
 - (more)
 - Other
 
