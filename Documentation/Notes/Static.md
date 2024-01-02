@@ -1368,7 +1368,7 @@
 ### DuelItemTable.byaml
 ### DuelPlayerSetting.byaml
 This deals with the 8 presets you can choose from in Battle Dojo.
-```
+
 Root
 - Branch #1
   - PresetID: 0
@@ -1418,7 +1418,7 @@ Root
   - Clothes: [TLY004](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Model.md#zinklayeredls)
   - Shoes: SHI003
   - WeaponSet: Shot_ExpLight00
-```
+
 ### FestPowerInfo.byaml
 ### GearBrand.byaml
 ### GearInfo_Clothes.byaml
