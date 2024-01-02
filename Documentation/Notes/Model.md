@@ -362,8 +362,6 @@ This will be divided into the following:
 - Was: Hed_VIS002.szs
 
 # Clothing
-<details>
-    <summary>Clothing</summary>
 ## School Uniform
 
 ![schoolf](https://github.com/Delus1onL/Images/blob/main/Models/Clt_AMB000_F.png)
@@ -1159,7 +1157,6 @@ This will be divided into the following:
 ![MSN4](https://github.com/Delus1onL/Images/blob/main/Models/Clt_VST005.png)
 - Was: Clt_VST005.szs
 - Acquired: By buying from the clothes store
-</details>
 
 # Shoes
 ## [name]
