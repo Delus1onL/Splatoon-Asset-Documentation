@@ -717,39 +717,39 @@
 ```
 - 
 ```
-### AutoWarpPoint
+### Npc_Commander_Anmltp
 ```
 - 
 ```
-### AutoWarpPoint
+### Npc_CommanderBind_Anmltp
 ```
 - 
 ```
-### AutoWarpPoint
+### Npc_CustomShop_Anmltp
 ```
 - 
 ```
-### AutoWarpPoint
+### Npc_IdolA_Anmltp
 ```
 - 
 ```
-### AutoWarpPoint
+### Npc_IdolB_Anmltp
 ```
 - 
 ```
-### AutoWarpPoint
+### NpcAssistantGear
 ```
 - 
 ```
-### AutoWarpPoint
+### NpcAssistantShoes
 ```
 - 
 ```
-### AutoWarpPoint
+### NpcAssistantTshirts
 ```
 - 
 ```
-### AutoWarpPoint
+### NpcAssistantWeapon
 ```
 - 
 ```
@@ -1364,7 +1364,7 @@
 ## Mush
 
 ### AmiiboChallengeMapInfo.byaml
-
+This deals with the parameters for the Amiibo Challenges, which has all the possible parameters in this file, meaning you can just turn Kraken on for Inkling Girl and it should work.
 ### DuelItemTable.byaml
 ### DuelPlayerSetting.byaml
 This deals with the 8 presets you can choose from in Battle Dojo.
@@ -1429,6 +1429,7 @@ Root
 ### PhotographPlayerInfo.byaml
 ### PlayerRank.byaml
 This is the amount of XP needed for the next level relative to what you have.
+
 Root
 - Branch #1
   - XP: 700
@@ -1556,6 +1557,51 @@ Root
 
 ### Skill_Icon.byaml
 ### TankInfo.byaml
+This deals with the IDs of different tanks, like the one used online and the ones used in story mode.
+Root
+- Branch #1
+  - "ArcName": Tnk_Simple
+  - Catalogue: 0
+  - ID: 0
+  - Look/Material: Plastic
+  - Model Name: [none]
+  - Name: Tnk_Simple
+- Branch #2
+  - "ArcName": Tnk_Msn0Lv0
+  - Catalogue: 1
+  - ID: 1000
+  - Look/Material: Plastic
+  - Model Name: Tnk_Msn0Lv0
+  - Name: Tnk_Msn0Lv0
+- Branch #3
+  - "ArcName": Tnk_Msn0Lv0
+  - Catalogue: 2
+  - ID: 1001
+  - Look/Material: Plastic
+  - Model Name: Tnk_Msn0Lv1
+  - Name: Tnk_Msn0Lv1
+- Branch #4
+  - "ArcName": Tnk_Msn0Lv0
+  - Catalogue: 3
+  - ID: 1002
+  - Look/Material: Plastic
+  - Model Name: Tnk_Msn0Lv2
+  - Name: Tnk_Msn0Lv2
+- Branch #5
+  - "ArcName": Tnk_Msn0Lv0
+  - Catalogue: 4
+  - ID: 1003
+  - Look/Material: Plastic
+  - Model Name: Tnk_Msn0Lv3
+  - Name: Tnk_Msn0Lv3
+- Branch #6
+  - "ArcName": Tnk_Rvl00
+  - Catalogue: 5
+  - ID: 2000
+  - Look/Material: Plastic
+  - Model Name: [none]
+  - Name: Tnk_Rvl00
+
 ### TipsTextInfo.byaml
 ### UdemaeGrade.byaml
 This goes over the ranking system, from C- to S+. This list gives relative value, knockout bonus, win points, lose points, etc.
