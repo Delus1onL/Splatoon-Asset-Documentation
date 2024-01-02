@@ -14,10 +14,10 @@ This has the file "BmpFont_US.szs".
 Content here is within `.szs` files. Within these files are `.msbt` files, which are basically Nintendo's version of obfuscated `.txt` files.
 ## Model
 
-This will get its own .md, to not overshadow other information in this file: [Model.md](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Model.md)
+This will get its own .md, to not overshadow other information in this file: [Model.md](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Model.md)
 ## Pack
 
-This will get its own .md, to not overshadow other information in this file: [Pack.md](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md)
+This will get its own .md, to not overshadow other information in this file: [Pack.md](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Pack.md)
 ## Sound
 
 This will get its own `.md`.
