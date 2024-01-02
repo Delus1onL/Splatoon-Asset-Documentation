@@ -1373,49 +1373,49 @@ Root
 - Branch #1
   - PresetID: 0
   - Headgear: HDP000
-  - Clothes: [TES000](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Model.md#whitetee)
+  - Clothes: [TES000](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Model.md#white-tee)
   - Shoes: SHT000
   - WeaponSet: Shot_Normal00
 - Branch #2
   - PresetID: 1
   - Headgear: EYE000
-  - Clothes: [SHT007](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Model.md#babyjellyshirt)
+  - Clothes: [SHT007](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Model.md#baby-jelly-shirt)
   - Shoes: SLP000
   - WeaponSet: Roller_Normal00
 - Branch #3
   - PresetID: 2
   - Headgear: NCP000
-  - Clothes: [PRK001](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Model.md#greenziphoodie)
+  - Clothes: [PRK001](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Model.md#green-zip-hoodie)
   - Shoes: BOT000
   - WeaponSet: Charge_Normal00
 - Branch #4
   - PresetID: 3
   - Headgear: HAT000
-  - Clothes: [TEL006](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Model.md#blackbaseballls)
+  - Clothes: [TEL006](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Model.md#black-baseball-ls)
   - Shoes: BOT002
   - WeaponSet: Shot_ExpMiddle00
 - Branch #5
   - PresetID: 4
   - Headgear: MET004
-  - Clothes: [VST003](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Model.md#yellowurbanvest)
+  - Clothes: [VST003](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Model.md#yellow-urban-vest)
   - Shoes: SLO004
   - WeaponSet: Shot_Long00
 - Branch #6
   - PresetID: 5
   - Headgear: CAP002
-  - Clothes: [TES001](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Model.md#blacksquideye)
+  - Clothes: [TES001](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Model.md#black-squideye)
   - Shoes: LTS000
   - WeaponSet: Shot_Blaze00
 - Branch #7
   - PresetID: 6
   - Headgear: MSK001
-  - Clothes: [SWT000](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Model.md#graycollegesweat)
+  - Clothes: [SWT000](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Model.md#gray-college-sweat)
   - Shoes: SHT001
   - WeaponSet: Charge_Quick00
 - Branch #8
   - PresetID: 7
   - Headgear: EYE002
-  - Clothes: [TLY004](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Model.md#zinklayeredls)
+  - Clothes: [TLY004](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Model.md#zink-layered-ls)
   - Shoes: SHI003
   - WeaponSet: Shot_ExpLight00
 
@@ -1539,7 +1539,7 @@ Root
   - Item: MSN004 (Headgear)
   - Level: 25
 - Branch #2
-  - Item: [MSN004](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Model.md#armorjacketreplica) (Clothes)
+  - Item: [MSN004](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Model.md#armor-jacket-replica) (Clothes)
   - Level: 30
 - Branch #3
   - Item: MSN004 (Shoes)
@@ -1548,7 +1548,7 @@ Root
   - Item: Shot_NormalOct (Weapon)
   - Level: 40
 - Branch #5
-  - Item: [TES028](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Model.md#octotee) (Clothes)
+  - Item: [TES028](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Model.md#octo-tee) (Clothes)
   - Level: 45
 - Branch #6
   - Item: CAP015 (Headgear)
