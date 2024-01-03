@@ -342,179 +342,25 @@ This holds a few neat things, like debug text, shaders, and, coolest of all, `(p
 # Weapon.pack
 This pack holds all the weapons originally released with the game, without updates, whereas the rest of the weapons are singular models in the "/content/Models" directory.
 
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
-## E-Liter 3K (EU: E-Litre 3K)
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Long.png)
-- Was: Wmn_Charge_Long.szs
-- Acquired: Weapons Shop
+## Wmn_Charge_Light.szs
+### Bamboozler 14 Mk I
+<details>
+  <summary>Image</summary>
+![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Light.png)
+</details>
+### Bamboozler 14 Mk II
+<details>
+  <summary>Image</summary>
+![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Light_Cstm.png)
+</details>
+## Wmn_Charge_Long.szs
+### E-Liter 3k (E-Litre 3k)
+<details>
+  <summary>Image</summary>
+![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Light.png)
+</details>
+### Custom E-Liter 3k
+<details>
+  <summary>Image</summary>
+![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Light.png)
+</details>
