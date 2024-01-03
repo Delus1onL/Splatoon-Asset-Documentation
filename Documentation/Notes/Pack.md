@@ -313,9 +313,13 @@ place
 This deals with the UI/HUD elements of the game. For example, the title screen or the gamepad's layout.
 
 ### AddRoomBtn_00
+<details>
+  <summary>Table</summary>
+
 |GambitPatternS_02^r.bflim|HomeGroundUp^q.bflim|Light_01^s.bflim|ResultMeter_00^f.bflim|
 |------------|------------|------------|------------|
 |![img](https://github.com/Delus1onL/Images/blob/main/layout/AddRoomBtn_00/AddRoomBtn_00/GambitPatternS_02%5Er.bflim.png)|![img](https://github.com/Delus1onL/Images/blob/main/layout/AddRoomBtn_00/AddRoomBtn_00/HomeGroundUp%5Eq.bflim.png)|![img](https://github.com/Delus1onL/Images/blob/main/layout/AddRoomBtn_00/AddRoomBtn_00/Light_01%5Es.bflim.png)|![img](https://github.com/Delus1onL/Images/blob/main/layout/AddRoomBtn_00/AddRoomBtn_00/ResultMeter_00%5Ef.bflim.png)|
+</details>
 
 ### AmiiboCourseBtn_00
 |AmiiboCourseBtn_00^s.bflim|ClearIcon_00^t.bflim|GambitPatternL_04^r.bflim|GambitPatternL_05^r.bflim|GambitPatternL_11^r.bflim|GambitPatternSS_00^r.bflim|GambitPatternSS_01^r.bflim|GambitPatternSS_02^r.bflim|GambitPatternSS_03^r.bflim|GambitPatternSS_06^r.bflim|Ink128_00^s.bflim|LightRS_00^r.bflim|MisInfo_00^s.bflim|
@@ -340,21 +344,21 @@ This deals with a lot of parameters, like weapons (how they shoot), maps (object
 # System.pack
 This holds a few neat things, like debug text, shaders, and, coolest of all, `(place).xml`.
 # Weapon.pack
-This pack holds all the weapons originally released with the game, without updates, whereas the rest of the weapons are singular models in the "/content/Models" directory.
+This pack holds all the weapons originally released with the game, without updates, whereas the rest of the weapons are separate `.szs` in the `/content/Models` directory.
 
 ## Wmn_Charge_Light.szs
 ### Bamboozler 14 Mk I
 <details>
   <summary>Image</summary>
   
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Light.png)
+![jkt2](https://github.com/Delus1onL/Images/blob/main/WeaponPack/Wmn_Charge_Light.png)
 </details>
 
 ### Bamboozler 14 Mk II
 <details>
   <summary>Image</summary>
   
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Light_Cstm.png)
+![jkt2](https://github.com/Delus1onL/Images/blob/main/WeaponPack/Wmn_Charge_Light_Cstm.png)
 </details>
 
 ## Wmn_Charge_Long.szs
@@ -362,12 +366,93 @@ This pack holds all the weapons originally released with the game, without updat
 <details>
   <summary>Image</summary>
   
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Light.png)
+![jkt2](https://github.com/Delus1onL/Images/blob/main/WeaponPack/Wmn_Charge_Long.png)
 </details>
 
-### Custom E-Liter 3k
+### Custom E-Liter 3k (Custom E-Litre 3k)
 <details>
   <summary>Image</summary>
 
-![jkt2](https://github.com/Delus1onL/Images/blob/main/Models/Wmn_Charge_Light.png)
+![jkt2](https://github.com/Delus1onL/Images/blob/main/WeaponPack/Wmn_Charge_Long_Cstm.png)
+</details>
+
+### E-Liter 3k Scope (E-Litre 3k Scope)
+<details>
+  <summary>Image</summary>
+
+![jkt2](https://github.com/Delus1onL/Images/blob/main/WeaponPack/Wmn_Charge_LongScope.png)
+</details>
+
+### Custom E-Liter 3k Scope (Custom E-Litre 3k Scope)
+<details>
+  <summary>Image</summary>
+
+![jkt2](https://github.com/Delus1onL/Images/blob/main/WeaponPack/Wmn_Charge_LongScope_Cstm.png)
+</details>
+
+## Wmn_Charge_Mission.szs
+### Hero Charger Replica
+<details>
+  <summary>Image</summary>
+
+![jkt2](https://github.com/Delus1onL/Images/blob/main/WeaponPack/Wmn_Charge_Mission.png)
+</details>
+
+## Wmn_Charge_NormalScope.szs
+### Splat Charger
+<details>
+  <summary>Image</summary>
+
+![jkt2](https://github.com/Delus1onL/Images/blob/main/WeaponPack/Wmn_Charge_Normal.png)
+</details>
+
+### Kelp Splat Charger
+<details>
+  <summary>Image</summary>
+
+![jkt2](https://github.com/Delus1onL/Images/blob/main/WeaponPack/Wmn_Charge_Normal_Cstm.png)
+</details>
+
+### Splatterscope
+<details>
+  <summary>Image</summary>
+
+![jkt2](https://github.com/Delus1onL/Images/blob/main/WeaponPack/Wmn_Charge_NormalScope.png)
+</details>
+
+### Kelp Splatterscope
+<details>
+  <summary>Image</summary>
+
+![jkt2](https://github.com/Delus1onL/Images/blob/main/WeaponPack/Wmn_Charge_NormalScope_Cstm.png)
+</details>
+
+## Wmn_Charge_Quick.szs
+### Classic Squiffer
+<details>
+  <summary>Image</summary>
+
+![jkt2](https://github.com/Delus1onL/Images/blob/main/WeaponPack/Wmn_Charge_Quick.png)
+</details>
+
+### New Squiffer
+<details>
+  <summary>Image</summary>
+
+![jkt2](https://github.com/Delus1onL/Images/blob/main/WeaponPack/Wmn_Charge_Quick_Cstm.png)
+</details>
+
+## Wmn_Roller_BrushMini.szs
+### Inkbrush
+<details>
+  <summary>Image</summary>
+
+![jkt2](https://github.com/Delus1onL/Images/blob/main/WeaponPack/Wmn_Roller_BrushMini.png)
+</details>
+
+### Inkbrush Nouveau
+<details>
+  <summary>Image</summary>
+
+![jkt2](https://github.com/Delus1onL/Images/blob/main/WeaponPack/Wmn_Roller_BrushMini_Cstm.png)
 </details>
