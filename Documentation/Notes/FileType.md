@@ -59,7 +59,7 @@ This will go over the different files used, and at least some basic information 
   These deal with the fonts for Splatoon. These can be opened with Switch Toolbox.
 ## .(animation  files)
   place
-## PlazaNpcPreset.bin
+## PlazaNpcPreset.bin (UNFINISHED)
 
 This is the general byte layout for the player's data in the Plaza. Here is the general data layout as shown in a hex editor.
 
@@ -92,19 +92,16 @@ WS = (int32) Weapon Sub ID
 SW = (int32) Weapon Special ID
 TI = (int32) Turf Inked with the weapon equipped
 HG = (int32) Headgear ID
-HB = (int32) Headgear brand ID
 HM = (int32) Headgear Main Ability ID
 H1 = (int32) Headgear Sub Ability 1 ID
 H2 = (int32) Headgear Sub Ability 2 ID
 H3 = (int32) Headgear Sub Ability 3 ID
 CG = (int32) Clothes ID
-CB = (int32) Clothes brand ID
 CM = (int32) Clothes Main Ability ID
 C1 = (int32) Clothes Sub Ability 1 ID
 C2 = (int32) Clothes Sub Ability 2 ID
 C3 = (int32) Clothes Sub Ability 3 ID
 SG = (int32) Shoes ID
-SB = (int32) Shoes brand ID
 SM = (int32) Shoes Main Ability ID
 S1 = (int32) Shoes Sub Ability 1 ID
 S2 = (int32) Shoes Sub Ability 2 ID

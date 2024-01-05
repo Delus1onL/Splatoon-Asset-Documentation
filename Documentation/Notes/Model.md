@@ -16,349 +16,685 @@ This will be divided into the following:
 # Headgear
 
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_AMB000_F.png)
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_AMB000_M.png)
+</details>
+
 - Was: Hed_AMB000_F.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_AMB001.png)
+</details>
+
 - Was: Hed_AMB001.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_AMB002.png)
+</details>
+
 - Was: Hed_AMB002.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_CAP000.png)
+</details>
+
 - Was: Hed_CAP000.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_CAP001.png)
+</details>
+
 - Was: Hed_CAP001.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_CAP002.png)
+</details>
+
 - Was: Hed_CAP002.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_CAP003.png)
+</details>
+
 - Was: Hed_CAP003.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_CAP004.png)
+</details>
+
 - Was: Hed_CAP004.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_CAP005.png)
+</details>
+
 - Was: Hed_CAP005.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_CAP006.png)
+</details>
+
 - Was: Hed_CAP006.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_CAP007.png)
+</details>
+
 - Was: Hed_CAP007.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_CAP008.png)
+</details>
+
 - Was: Hed_CAP008.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_CAP009.png)
+</details>
+
 - Was: Hed_CAP009.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_CAP010.png)
+</details>
+
 - Was: Hed_CAP010.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_CAP011.png)
+</details>
+
 - Was: Hed_CAP011.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_CAP012.png)
+</details>
+
 - Was: Hed_CAP012.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_CAP013.png)
+</details>
+
 - Was: Hed_CAP013.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_CAP013_F.png)
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_CAP013_M.png)
+</details>
+
 - Was: Hed_CAP013_F.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_CAP014.png)
+</details>
+
 - Was: Hed_CAP014.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_CAP015_F.png)
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_CAP015_M.png)
+</details>
+
 - Was: Hed_CAP015_F.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_CAP016.png)
+</details>
+
 - Was: Hed_CAP016.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_EYE000.png)
+</details>
+
 - Was: Hed_EYE000.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_EYE001.png)
+</details>
+
 - Was: Hed_EYE001.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_EYE002.png)
+</details>
+
 - Was: Hed_EYE002.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_EYE003.png)
+</details>
+
 - Was: Hed_EYE003.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_EYE004.png)
+</details>
+
 - Was: Hed_EYE004.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_EYE005.png)
+</details>
+
 - Was: Hed_EYE005.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_EYE006.png)
+</details>
+
 - Was: Hed_EYE006.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_EYE007.png)
+</details>
+
 - Was: Hed_EYE007.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_EYE008.png)
+</details>
+
 - Was: Hed_EYE008.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_EYE009.png)
+</details>
+
 - Was: Hed_EYE009.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_EYE010.png)
+</details>
+
 - Was: Hed_EYE010.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_First.png)
+</details>
+
 - Was: Hed_First.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_HAT000.png)
+</details>
+
 - Was: Hed_HAT000.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_HAT001.png)
+</details>
+
 - Was: Hed_HAT001.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_HAT002.png)
+</details>
+
 - Was: Hed_HAT002.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_HAT003.png)
+</details>
+
 - Was: Hed_HAT003.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_HAT004.png)
+</details>
+
 - Was: Hed_HAT004.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_HAT005_F.png)
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_HAT005_M.png)
+</details>
+
 - Was: Hed_HAT005_F.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_HAT006_F.png)
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_HAT006_M.png)
+</details>
+
 - Was: Hed_HAT006_F.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_HAT007.png)
+</details>
+
 - Was: Hed_HAT007.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_HBD000.png)
+</details>
+
 - Was: Hed_HBD000.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_HBD001.png)
+</details>
+
 - Was: Hed_HBD001.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_HBD002.png)
+</details>
+
 - Was: Hed_HBD002.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_HBD003.png)
+</details>
+
 - Was: Hed_HBD003.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_HBD004.png)
+</details>
+
 - Was: Hed_HBD004.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_HBD005.png)
+</details>
+
 - Was: Hed_HBD005.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_HBD005_F.png)
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_HBD005_M.png)
+</details>
+
 - Was: Hed_HBD005_F.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_HBD006_F.png)
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_HBD006_M.png)
+</details>
+
 - Was: Hed_HBD006_F.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_HDP000.png)
+</details>
+
 - Was: Hed_HDP000.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_HDP001.png)
+</details>
+
 - Was: Hed_HDP001.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_HDP002.png)
+</details>
+
 - Was: Hed_HDP002.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_Invisible.png)
+</details>
+
 - Was: Hed_Invisible.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_MET000.png)
+</details>
+
 - Was: Hed_MET000.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_MET001.png)
+</details>
+
 - Was: Hed_MET001.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_MET002.png)
+</details>
+
 - Was: Hed_MET002.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_MET003.png)
+</details>
+
 - Was: Hed_MET003.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_MET004.png)
+</details>
+
 - Was: Hed_MET004.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_MET005.png)
+</details>
+
 - Was: Hed_MET005.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_MET006.png)
+</details>
+
 - Was: Hed_MET006.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_MET007.png)
+</details>
+
 - Was: Hed_MET007.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_MET008.png)
+</details>
+
 - Was: Hed_MET008.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_MET009.png)
+</details>
+
 - Was: Hed_MET009.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_MET010.png)
+</details>
+
 - Was: Hed_MET010.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_MET011.png)
+</details>
+
 - Was: Hed_MET011.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_MSK000.png)
+</details>
+
 - Was: Hed_MSK000.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_MSK001.png)
+</details>
+
 - Was: Hed_MSK001.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_MSK002.png)
+</details>
+
 - Was: Hed_MSK002.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_MSK002_F.png)
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_MSK002_M.png)
+</details>
+
 - Was: Hed_MSK002_F.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_MSK003_F.png)
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_MSK003_M.png)
+</details>
+
 - Was: Hed_MSK003_F.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_MSN004.png)
+</details>
+
 - Was: Hed_MSN004.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_NCP000.png)
+</details>
+
 - Was: Hed_NCP000.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_NCP001.png)
+</details>
+
 - Was: Hed_NCP001.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_NCP002.png)
+</details>
+
 - Was: Hed_NCP002.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_NCP003.png)
+</details>
+
 - Was: Hed_NCP003.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_NCP004.png)
+</details>
+
 - Was: Hed_NCP004.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_NCP005.png)
+</details>
+
 - Was: Hed_NCP005.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_RVL000.png)
+</details>
+
 - Was: Hed_RVL000.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_RVL001.png)
+</details>
+
 - Was: Hed_RVL001.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_SUP000.png)
+</details>
+
 - Was: Hed_SUP000.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_SUP001.png)
+</details>
+
 - Was: Hed_SUP001.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_VIS000.png)
+</details>
+
 - Was: Hed_VIS000.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_VIS001.png)
+</details>
+
 - Was: Hed_VIS001.szs
 ## place
-
+<details>
+  <summary>Image</summary>
+  
 ![place](https://github.com/Delus1onL/Images/blob/main/Models/Hed_VIS002.png)
+</details>
+
 - Was: Hed_VIS002.szs
 
 # Clothing

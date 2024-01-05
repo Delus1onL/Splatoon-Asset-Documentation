@@ -1422,8 +1422,11 @@ Root
 ### FestPowerInfo.byaml
 ### GearBrand.byaml
 ### GearInfo_Clothes.byaml
+This controls the clothing, like its main ability, "Catalogue Order," how to get it, brand, ID, characteristics, etc.
 ### GearInfo_Head.byaml
+This controls the headgear, like its main ability, "Catalogue Order," how to get it, brand, ID, characteristics, etc.
 ### GearInfo_Shoes.byaml
+This controls the shoes, like its main ability, "Catalogue Order," how to get it, brand, ID, characteristics, etc.
 ### MapInfo.byaml
 ### ParticleBindModel.byaml
 ### PhotographPlayerInfo.byaml
@@ -1533,6 +1536,7 @@ This is the amount of XP needed for the next level relative to what you have.
 - Branch #50
   - XP: 0
 </details>
+
 ### RailKingSchedule.byaml
 ### RankBonusItem.byaml
 This deals with the special items you can get based on your level, which was (probably) added at the same time the change of the max level was changed (Lvl.20->Lvl.50)
@@ -1559,6 +1563,7 @@ This deals with the special items you can get based on your level, which was (pr
   - Item: CAP015 (Headgear)
   - Level: 50
 </details>
+
 ### Skill_Icon.byaml
 ### TankInfo.byaml
 This deals with the IDs of different tanks, like the one used online and the ones used in story mode.
@@ -1608,6 +1613,7 @@ This deals with the IDs of different tanks, like the one used online and the one
   - Model Name: [none]
   - Name: Tnk_Rvl00
 </details>
+
 ### TipsTextInfo.byaml
 ### UdemaeGrade.byaml
 This goes over the ranking system, from C- to S+. This list gives relative value (0,2,4,6,etc, maybe for randomizing in Private Battle?), knockout bonus, win points, lose points, etc.
@@ -1857,6 +1863,7 @@ This goes over the ranking system, from C- to S+. This list gives relative value
   - S: -1
   - S+: 0
 </details>
+
 ### WeaponInfo_Main.byaml
 ### WeaponInfo_Special.byaml
 ### WeaponInfo_Sub.byaml

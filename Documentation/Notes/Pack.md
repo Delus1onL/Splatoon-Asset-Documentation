@@ -1,16 +1,16 @@
 # Pack
 
 This will be ordered like this:
-- [Enemy.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#enemypack)
-- [Env.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#envpack)
-- [Layout.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#layoutpack)
-- [Obj.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#objpack)
-- [ObjSmall.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#objsmallpack)
-- [Player.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#playerpack)
-- [Sound.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#soundpack)
-- [Static.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#staticpack)
-- [System.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#systempack)
-- [Weapon.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Files/Pack.md#weaponpack)
+- [Enemy.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Pack.md#enemypack)
+- [Env.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Pack.md#envpack)
+- [Layout.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Pack.md#layoutpack)
+- [Obj.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Pack.md#objpack)
+- [ObjSmall.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Pack.md#objsmallpack)
+- [Player.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Pack.md#playerpack)
+- [Sound.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Pack.md#soundpack)
+- [Static.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Pack.md#staticpack)
+- [System.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Pack.md#systempack)
+- [Weapon.pack](https://github.com/Delus1onL/Splatoon-Decompile-For-Splatoon-Legends/blob/main/Documentation/Notes/Pack.md#weaponpack)
 
 # Enemy.pack
 These are the models and animations related to the enemies in Story Mode.
