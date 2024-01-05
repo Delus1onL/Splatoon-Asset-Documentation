@@ -753,611 +753,611 @@
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_AirBall_AnmItp
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_AirBallDuel_AnmItp
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_AreaGate_AnmItp
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_AreaGate
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_BallkingPlateInside
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_BombFlower
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_BossGateway
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_CylinderKingBall
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_CylinderKingBallBig
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_CylinderKingBallBurst
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_CylinderKingBallSmall
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_DefenseTower
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_GateManhole_AnmItp
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_GateManhole_Commander_AnmItp
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_GateManhole
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_Gateway
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_Geyser
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_Goal_Namazu_AnmItp
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_Goal_NamazuDummy_AnmItp
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_Goal
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_Grass00_AnmItp
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_Ikastone_AnmItp
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_Ikastone
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_InkRail
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_JumpPoint
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_KeyTreasureBox
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_LiftFall
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_MissilePosition
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_RailKingPilotHouse_Pilot_AnmItp
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_RailKingPilotHouse
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_SeaGull_AnmItp
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_SighterTarget_AnmItp
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_SighterTarget
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_Sponge
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_Tree00_AnmItp
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_Tree02_AnmItp
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_WarpPointFlag
 ```
 - 
 ```
-### AutoWarpPoint
+### Obj_ZakoPointUFO
 ```
 - 
 ```
-### AutoWarpPoint
+### PaintingLift
 ```
 - 
 ```
-### AutoWarpPoint
+### Patrol_VSCapture.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### Player_RivalSquid_BoneOffset
 ```
 - 
 ```
-### AutoWarpPoint
+### Player_Spec_Attack_Up
 ```
 - 
 ```
-### AutoWarpPoint
+### Player_Spec_BombDistance_Up
 ```
 - 
 ```
-### AutoWarpPoint
+### Player_Spec_DamageRecovery_Up
 ```
 - 
 ```
-### AutoWarpPoint
+### Player_Spec_Defense_Up
 ```
 - 
 ```
-### AutoWarpPoint
+### Player_Spec_HumanMove_Up
 ```
 - 
 ```
-### AutoWarpPoint
+### Player_Spec_InkRecovery_Up
 ```
 - 
 ```
-### AutoWarpPoint
+### Player_Spec_JumpTime_Save
 ```
 - 
 ```
-### AutoWarpPoint
+### Player_Spec_MainInk_Save
 ```
 - 
 ```
-### AutoWarpPoint
+### Player_Spec_RespawnSpecialGauge_Save
 ```
 - 
 ```
-### AutoWarpPoint
+### Player_Spec_RespawnTime_Save
 ```
 - 
 ```
-### AutoWarpPoint
+### Player_Spec_SpecialIncrease_Up
 ```
 - 
 ```
-### AutoWarpPoint
+### Player_Spec_SpecialTime_Up
 ```
 - 
 ```
-### AutoWarpPoint
+### Player_Spec_SquidMove_Up
 ```
 - 
 ```
-### AutoWarpPoint
+### Player_Spec_SubInk_Save
 ```
 - 
 ```
-### AutoWarpPoint
+### PlayerMake.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### Plaza_AmiiboLook.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### Plaza_AmiiboTalk.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### Plaza_CustomShopLook.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### Plaza_Demo_LookBackstreet.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### Plaza_Demo_LookDuel.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### Plaza_Demo_LookFestBoard.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### Plaza_Demo_LookLobby.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### Plaza_Demo_LookManhole.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### Plaza_Demo_LookShop.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### Plaza_Demo_LookTower.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### Plaza_EndingView.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### Plaza_FestBoardLook.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### Plaza_FestBoardLookOut.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### Plaza_InfoView.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### Plaza_JudgeLook.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### Plaza_LookDoor.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### Plaza_News.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### Plaza_NpcLook.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### Plaza_PostLook.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### Plaza_TitleView.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### Plaza_VideoGameLook.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Default_DRC.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Default_TV.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_Amida00_DRC.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_Amida00_TV.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_Athletic00_DRC.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_Athletic00_TV.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_Crank00_DRC.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_Crank00_TV.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_Crank01_DRC.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_Crank01_TV.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_Hiagari00_DRC.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_Hiagari00_TV.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_Jyoheki00_DRC.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_Jyoheki00_TV.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_Kaisou00_DRC.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_Kaisou00_TV.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_Maze00_DRC.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_Maze00_TV.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_Office00_DRC.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_Office00_TV.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_Pivot00_DRC.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_Pivot00_TV.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_Quarry00_DRC.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_Quarry00_TV.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_Ruins00_DRC.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_Ruins00_TV.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_SeaPlant00_DRC.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_SeaPlant00_TV.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_ShootingRange_DRC.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_SkatePark00_DRC.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_SkatePark00_TV.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_Tuzura00_DRC.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_Tuzura00_TV.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_UpDown00_DRC.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_UpDown00_TV.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_Warehouse00_DRC.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_Fld_Warehouse00_TV.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_TestField218_DRC.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PostGame_StageView_TestField712_DRC.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PreGame_PlayerView_Default_Friend.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PreGame_PlayerView_Default_Opposite.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### PreGame_StageView.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### RollerBrushMini
 ```
 - 
 ```
-### AutoWarpPoint
+### RollerBrushNormal
 ```
 - 
 ```
-### AutoWarpPoint
+### RollerCompact
 ```
 - 
 ```
-### AutoWarpPoint
+### RollerHeavy
 ```
 - 
 ```
-### AutoWarpPoint
+### RollerKingSquid
 ```
 - 
 ```
-### AutoWarpPoint
+### RollerMission
 ```
 - 
 ```
-### AutoWarpPoint
+### RollerNormal
 ```
 - 
 ```
-### AutoWarpPoint
+### ShopDefault.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### StaffRoll.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### TakopterTornado_DieDemo.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### Trap
 ```
 - 
 ```
-### AutoWarpPoint
+### TurnPlate
 ```
 - 
 ```
-### AutoWarpPoint
+### Tutorial_SuperJumpToPlaza.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### World_AllClearDemo_Area1Long.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### World_AllClearDemo_PlayerCommanderLong.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### World_AllClearDemo_RailKingPilotCloseUp.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### World_AreaInDemo_LastBossUfo.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### World_AreaOpenDemo_Concent.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### World_AreaOpenDemo.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### World_BossGatewayOpenDemo.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### World_FirstEntryDemo_Commander.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### World_FirstEntryDemo_CommanderCloseUp.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### World_FirstEntryDemo_CommanderHQ.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### World_FirstEntryDemo_CommanderLookUp.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### World_FirstEntryDemo_CommanderOverShoulder.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### World_FirstEntryDemo_CommanderTalk.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### World_FirstEntryDemo_HeroSuit.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### World_FirstEntryDemo_HQDummy.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### World_FirstEntryDemo_World.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### World_StaffRollObjEntryDemo.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### World_StaffRollObjEntryDemoCloseUp.camera
 ```
 - 
 ```
-### AutoWarpPoint
+### Wsb_Shield
 ```
 - 
 ```
-### AutoWarpPoint
+### Wsp_Shachihoko
 ```
 - 
 ```
@@ -1429,8 +1429,9 @@ Root
 ### PhotographPlayerInfo.byaml
 ### PlayerRank.byaml
 This is the amount of XP needed for the next level relative to what you have.
-
-Root
+<details>
+  <summary>Root</summary>
+  
 - Branch #1
   - XP: 700
 - Branch #2
@@ -1531,11 +1532,14 @@ Root
   - XP: 720
 - Branch #50
   - XP: 0
+</details>
 ### RailKingSchedule.byaml
 ### RankBonusItem.byaml
 This deals with the special items you can get based on your level, which was (probably) added at the same time the change of the max level was changed (Lvl.20->Lvl.50)
 
-Root
+<details>
+  <summary>Root</summary>
+
 - Branch #1
   - Item: MSN004 (Headgear)
   - Level: 25
@@ -1554,11 +1558,13 @@ Root
 - Branch #6
   - Item: CAP015 (Headgear)
   - Level: 50
-
+</details>
 ### Skill_Icon.byaml
 ### TankInfo.byaml
 This deals with the IDs of different tanks, like the one used online and the ones used in story mode.
-Root
+<details>
+  <summary>Root</summary>
+
 - Branch #1
   - "ArcName": Tnk_Simple
   - Catalogue: 0
@@ -1601,22 +1607,24 @@ Root
   - Look/Material: Plastic
   - Model Name: [none]
   - Name: Tnk_Rvl00
-
+</details>
 ### TipsTextInfo.byaml
 ### UdemaeGrade.byaml
-This goes over the ranking system, from C- to S+. This list gives relative value, knockout bonus, win points, lose points, etc.
-Root
+This goes over the ranking system, from C- to S+. This list gives relative value (0,2,4,6,etc, maybe for randomizing in Private Battle?), knockout bonus, win points, lose points, etc.
+<details>
+  <summary>Root</summary>
+
 - Branch #1
   - Rank: C-
   - Value: 10
   - Knockout Win XP: 1300
   - Win XP: 1000
-  - WinBasePoint0: 20
-  - WinBasePoint1: 20
-  - WinBasePoint2: 20
-  - LoseBasePoint0: -10
-  - LoseBasePoint1: -10
-  - LoseBasePoint2: -10
+  - Point Gain (When 0-30): 20
+  - Point Gain (When 30-70): 20
+  - Point Gain (When 70-100): 20
+  - Point Loss (When 0-30): -10
+  - Point Loss (When 30-70): -10
+  - Point Loss (When 70-100): -10
   - C-: 0
   - C: 2
   - C+: 4
@@ -1848,6 +1856,7 @@ Root
   - A+: -4
   - S: -1
   - S+: 0
+</details>
 ### WeaponInfo_Main.byaml
 ### WeaponInfo_Special.byaml
 ### WeaponInfo_Sub.byaml
@@ -1867,23 +1876,21 @@ This will detail the info from the `.bin` files in a more readable format.
 - Level: 10
 - Rank: C-
 - WeaponSetID: 1070
+- Turf Inked: 4524p
 - WeaponMainID: 115 (should be 116?)
 - WeaponSubID: 0
 - WeaponSpecialID: 3
 - HeadgearModelID: 
-- no
 - HeadgearSubAbilityCount:
 - HeadgearSubAbility1ID:
 - HeadgearSubAbility2ID:
 - HeadgearSubAbility3ID:
 - ClothesModelID: 
-- 
 - ClothesSubAbilityCount:
 - ClothesSubAbility1ID:
 - ClothesSubAbility2ID:
 - ClothesSubAbility3ID:
 - ShoesModelID: 
-- 
 - ShoesSubAbilityCount:
 - ShoesSubAbility1ID:
 - ShoesSubAbility2ID:
@@ -1894,60 +1901,36 @@ This will detail the info from the `.bin` files in a more readable format.
 - InkColorAlpha: 1.0
 ```
 `PlazaNpcPreset01.bin`
-
-`PlazaNpcPreset02.bin`
-
-`PlazaNpcPreset03.bin`
-
-`PlazaNpcPreset04.bin`
-
-`PlazaNpcPreset05.bin`
-
-`PlazaNpcPreset06.bin`
-
-`PlazaNpcPreset07.bin`
-
-`PlazaNpcPreset08.bin`
-
-`PlazaNpcPreset09.bin`
-
-`PlazaNpcPreset10.bin`
-
-`PlazaNpcPreset11.bin`
-
-`PlazaNpcPreset12.bin`
-
-`PlazaNpcPreset13.bin`
-
-`PlazaNpcPreset14.bin`
-
-`PlazaNpcPreset15.bin`
-
-`PlazaNpcPreset16.bin`
-
-`PlazaNpcPreset17.bin`
-
-`PlazaNpcPreset18.bin`
-
-`PlazaNpcPreset19.bin`
-
-`PlazaNpcPreset20.bin`
-
-`PlazaNpcPreset21.bin`
-
-`PlazaNpcPreset22.bin`
-
-`PlazaNpcPreset23.bin`
-
-`PlazaNpcPreset24.bin`
-
-`PlazaNpcPreset25.bin`
-
-`PlazaNpcPreset26.bin`
-
-`PlazaNpcPreset27.bin`
-
-`PlazaNpcPreset28.bin`
-
-`PlazaNpcPreset29.bin`
+```
+- Name: Polly
+- Gender: Girl
+- Skin Color: #1
+- Eye Color: Black
+- Level: 6
+- Rank: C-
+- WeaponSetID: 1040
+- Turf Inked: 1283p
+- WeaponMainID: 108
+- WeaponSubID: 2
+- WeaponSpecialID: 4
+- HeadgearModelID: 6001
+- HeadgearSubAbilityCount:
+- HeadgearSubAbility1ID:
+- HeadgearSubAbility2ID:
+- HeadgearSubAbility3ID:
+- ClothesModelID: 7000
+- ClothesSubAbilityCount:
+- ClothesSubAbility1ID:
+- ClothesSubAbility2ID:
+- ClothesSubAbility3ID:
+- ShoesModelID: 3000
+- ShoesSubAbilityCount:
+- ShoesSubAbility1ID:
+- ShoesSubAbility2ID:
+- ShoesSubAbility3ID:
+- InkColorRed: 
+- InkColorGreen: 
+- InkColorBlue: 
+- InkColorAlpha: 1.0
+```
 
