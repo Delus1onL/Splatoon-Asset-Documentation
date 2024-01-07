@@ -1,1363 +1,1364 @@
 # Static.pack
+This deals with a lot of parameters, like weapons (how they shoot), maps (object layout), and more. 
 
 ## Parameter
-### AutoWarpPoint
+### AutoWarpPoint.params
 ```
 - 
 ```
-### BigBallAdjust1
+### BigBallAdjust1.params
 ```
 - 
 ```
-### BigBallAdjust2
+### BigBallAdjust2.params
 ```
 - 
 ```
-### BigBallDiffusion
+### BigBallDiffusion.params
 ```
 - 
 ```
-### BigBallLauncher
+### BigBallLauncher.params
 ```
 - 
 ```
-### BigBallStrong
+### BigBallStrong.params
 ```
 - 
 ```
-### ChargeShotLight
+### ChargeShotLight.params
 ```
 - 
 ```
-### ChargeShotLong
+### ChargeShotLong.params
 ```
 - 
 ```
-### ChargeShotLongScope
+### ChargeShotLongScope.params
 ```
 - 
 ```
-### ChargeShotMission
+### ChargeShotMission.params
 ```
 - 
 ```
-### ChargeShotNormal
+### ChargeShotNormal.params
 ```
 - 
 ```
-### ChargeShotNormalScope
+### ChargeShotNormalScope.params
 ```
 - 
 ```
-### ChargeShotQuick
+### ChargeShotQuick.params
 ```
 - 
 ```
-### Compass
+### Compass.params
 ```
 - 
 ```
-### Customize_Default.camera
+### Customize_Default.camera.params
 ```
 - 
 ```
-### Default_cAction.rival
+### Default_cAction.rival.params
 ```
 - 
 ```
-### Default_cPlan.rival
+### Default_cPlan.rival.params
 ```
 - 
 ```
-### Default_cSensor.rival
+### Default_cSensor.rival.params
 ```
 - 
 ```
-### DuelSetting.camera
+### DuelSetting.camera.params
 ```
 - 
 ```
-### E_Zako_Escape
+### E_Zako_Escape.params
 ```
 - 
 ```
-### Enm_Ball_Anmltp
+### Enm_Ball_Anmltp.params
 ```
 - 
 ```
-### Enm_Ball
+### Enm_Ball.params
 ```
 - 
 ```
-### Enm_BallFake
+### Enm_BallFake.params
 ```
 - 
 ```
-### Enm_BallKing_Anmltp
+### Enm_BallKing_Anmltp.params
 ```
 - 
 ```
-### Enm_BallKing
+### Enm_BallKing.params
 ```
 - 
 ```
-### Enm_BallReal
+### Enm_BallReal.params
 ```
 - 
 ```
-### Enm_BossWeakPoint_Anmltp
+### Enm_BossWeakPoint_Anmltp.params
 ```
 - 
 ```
-### Enm_Bubble
+### Enm_Bubble.params
 ```
 - 
 ```
-### Enm_BubbleFixed
+### Enm_BubbleFixed.params
 ```
 - 
 ```
-### Enm_Charge
+### Enm_Charge.params
 ```
 - 
 ```
-### Enm_Cleaner_Anmltp
+### Enm_Cleaner_Anmltp.params
 ```
 - 
 ```
-### Enm_Cleaner
+### Enm_Cleaner.params
 ```
 - 
 ```
-### Enm_CylinderKing_Anmltp
+### Enm_CylinderKing_Anmltp.params
 ```
 - 
 ```
-### Enm_CylinderKing
+### Enm_CylinderKing.params
 ```
 - 
 ```
-### Enm_FindKing
+### Enm_FindKing.params
 ```
 - 
 ```
-### Enm_FindKingCore
+### Enm_FindKingCore.params
 ```
 - 
 ```
-### Enm_GeroZako_Anmltp
+### Enm_GeroZako_Anmltp.params
 ```
 - 
 ```
-### Enm_GeroZako
+### Enm_GeroZako.params
 ```
 - 
 ```
-### Enm_GeroZakoTest
+### Enm_GeroZakoTest.params
 ```
 - 
 ```
-### Enm_HideKing
+### Enm_HideKing.params
 ```
 - 
 ```
-### Enm_HideKingFake
+### Enm_HideKingFake.params
 ```
 - 
 ```
-### Enm_HideKingMissile
+### Enm_HideKingMissile.params
 ```
 - 
 ```
-### Enm_Himo
+### Enm_Himo.params
 ```
 - 
 ```
-### Enm_Hohei_Anmltp
+### Enm_Hohei_Anmltp.params
 ```
 - 
 ```
-### Enm_Hohei
+### Enm_Hohei.params
 ```
 - 
 ```
-### Enm_InvisibleMan
+### Enm_InvisibleMan.params
 ```
 - 
 ```
-### Enm_Mine
+### Enm_Mine.params
 ```
 - 
 ```
-### Enm_MouthKing_Anmltp
+### Enm_MouthKing_Anmltp.params
 ```
 - 
 ```
-### Enm_MouthKing
+### Enm_MouthKing.params
 ```
 - 
 ```
-### Enm_MouthKingFront
+### Enm_MouthKingFront.params
 ```
 - 
 ```
-### Enm_MouthKingTooth
+### Enm_MouthKingTooth.params
 ```
 - 
 ```
-### Enm_OctHead_Anmltp
+### Enm_OctHead_Anmltp.params
 ```
 - 
 ```
-### Enm_OctHead
+### Enm_OctHead.params
 ```
 - 
 ```
-### Enm_OctLeg
+### Enm_OctLeg.params
 ```
 - 
 ```
-### Enm_Racer
+### Enm_Racer.params
 ```
 - 
 ```
-### Enm_RailKing_Anmltp
+### Enm_RailKing_Anmltp.params
 ```
 - 
 ```
-### Enm_RailKing
+### Enm_RailKing.params
 ```
 - 
 ```
-### Enm_RailKingBubble
+### Enm_RailKingBubble.params
 ```
 - 
 ```
-### Enm_RailKingBullet
+### Enm_RailKingBullet.params
 ```
 - 
 ```
-### Enm_RailKingEnemyBullet
+### Enm_RailKingEnemyBullet.params
 ```
 - 
 ```
-### Enm_RailKingLight_Anmltp
+### Enm_RailKingLight_Anmltp.params
 ```
 - 
 ```
-### Enm_RailKingPilot_Anmltp
+### Enm_RailKingPilot_Anmltp.params
 ```
 - 
 ```
-### Enm_RailKingPunch_Anmltp
+### Enm_RailKingPunch_Anmltp.params
 ```
 - 
 ```
-### Enm_RailKingPunch
+### Enm_RailKingPunch.params
 ```
 - 
 ```
-### Enm_RailKingPunchB
+### Enm_RailKingPunchB.params
 ```
 - 
 ```
-### Enm_RailKingTakowasaBullet
+### Enm_RailKingTakowasaBullet.params
 ```
 - 
 ```
-### Enm_Samba
+### Enm_Samba.params
 ```
 - 
 ```
-### Enm_Shield
+### Enm_Shield.params
 ```
 - 
 ```
-### Enm_SnakeKing
+### Enm_SnakeKing.params
 ```
 - 
 ```
-### Enm_Stamp_Anmltp
+### Enm_Stamp_Anmltp.params
 ```
 - 
 ```
-### Enm_Stamp
+### Enm_Stamp.params
 ```
 - 
 ```
-### Enm_StampKing_Anmltp
+### Enm_StampKing_Anmltp.params
 ```
 - 
 ```
-### Enm_StampKing
+### Enm_StampKing.params
 ```
 - 
 ```
-### Enm_SuperShotMan
+### Enm_SuperShotMan.params
 ```
 - 
 ```
-### Enm_SuperShotTank
+### Enm_SuperShotTank.params
 ```
 - 
 ```
-### Enm_Takodozer
+### Enm_Takodozer.params
 ```
 - 
 ```
-### Enm_Takolien_Anmltp
+### Enm_Takolien_Anmltp.params
 ```
 - 
 ```
-### Enm_Takolien
+### Enm_Takolien.params
 ```
 - 
 ```
-### Enm_TakolienEasy_Anmltp
+### Enm_TakolienEasy_Anmltp.params
 ```
 - 
 ```
-### Enm_TakolienEasy
+### Enm_TakolienEasy.params
 ```
 - 
 ```
-### Enm_TakolienFixed_Anmltp
+### Enm_TakolienFixed_Anmltp.params
 ```
 - 
 ```
-### Enm_TakolienFixed
+### Enm_TakolienFixed.params
 ```
 - 
 ```
-### Enm_TakolienFixedEasy_Anmltp
+### Enm_TakolienFixedEasy_Anmltp.params
 ```
 - 
 ```
-### Enm_TakolienFixedEasy
+### Enm_TakolienFixedEasy.params
 ```
 - 
 ```
-### Enm_TakolienSpeedUp
+### Enm_TakolienSpeedUp.params
 ```
 - 
 ```
-### Enm_Takopter_Anmltp
+### Enm_Takopter_Anmltp.params
 ```
 - 
 ```
-### Enm_Takopter
+### Enm_Takopter.params
 ```
 - 
 ```
-### Enm_TakopterBomb_Anmltp
+### Enm_TakopterBomb_Anmltp.params
 ```
 - 
 ```
-### Enm_TakopterBomb
+### Enm_TakopterBomb.params
 ```
 - 
 ```
-### Enm_TakopterTornado_Anmltp
+### Enm_TakopterTornado_Anmltp.params
 ```
 - 
 ```
-### Enm_TakopterTornado
+### Enm_TakopterTornado.params
 ```
 - 
 ```
-### Enm_TornadoMan
+### Enm_TornadoMan.params
 ```
 - 
 ```
-### Enm_WeakPoint
+### Enm_WeakPoint.params
 ```
 - 
 ```
-### Enm_Zako_Chase
+### Enm_Zako_Chase.params
 ```
 - 
 ```
-### Enm_Zako_Escape
+### Enm_Zako_Escape.params
 ```
 - 
 ```
-### Enm_Zako
+### Enm_Zako.params
 ```
 - 
 ```
-### Fast_cAction.rival
+### Fast_cAction.rival.params
 ```
 - 
 ```
-### Fast_cPlan.rival
+### Fast_cPlan.rival.params
 ```
 - 
 ```
-### Fast_cSensor.rival
+### Fast_cSensor.rival.params
 ```
 - 
 ```
-### Game_FinalResult.camera
+### Game_FinalResult.camera.params
 ```
 - 
 ```
-### GatlingHyper_2
+### GatlingHyper_2.params
 ```
 - 
 ```
-### GatlingHyper
+### GatlingHyper.params
 ```
 - 
 ```
-### GatlingQuick_2
+### GatlingQuick_2.params
 ```
 - 
 ```
-### GatlingQuick
+### GatlingQuick.params
 ```
 - 
 ```
-### GatlingStandard_2
+### GatlingStandard_2.params
 ```
 - 
 ```
-### GatlingStandard
+### GatlingStandard.params
 ```
 - 
 ```
-### GfxSetting_Msn_DarkBlue
+### GfxSetting_Msn_DarkBlue.params
 ```
 - 
 ```
-### GfxSetting_Msn_Green_Default
+### GfxSetting_Msn_Green_Default.params
 ```
 - 
 ```
-### GfxSetting_Msn_Lilac
+### GfxSetting_Msn_Lilac.params
 ```
 - 
 ```
-### GfxSetting_Msn_LumiGreen
+### GfxSetting_Msn_LumiGreen.params
 ```
 - 
 ```
-### GfxSetting_Msn_Marigold
+### GfxSetting_Msn_Marigold.params
 ```
 - 
 ```
-### GfxSetting_Msn_MothGreen
+### GfxSetting_Msn_MothGreen.params
 ```
 - 
 ```
-### GfxSetting_Msn_NightLumiGreen
+### GfxSetting_Msn_NightLumiGreen.params
 ```
 - 
 ```
-### GfxSetting_Msn_NightMarigold
+### GfxSetting_Msn_NightMarigold.params
 ```
 - 
 ```
-### GfxSetting_Msn_Option_Yellow
+### GfxSetting_Msn_Option_Yellow.params
 ```
 - 
 ```
-### GfxSetting_Msn_Orange
+### GfxSetting_Msn_Orange.params
 ```
 - 
 ```
-### GfxSetting_Msn_Soda
+### GfxSetting_Msn_Soda.params
 ```
 - 
 ```
-### GfxSetting_Msn_Turquoise
+### GfxSetting_Msn_Turquoise.params
 ```
 - 
 ```
-### GfxSetting_Msn_Yellow
+### GfxSetting_Msn_Yellow.params
 ```
 - 
 ```
-### GfxSetting_Tut_Enemy
+### GfxSetting_Tut_Enemy.params
 ```
 - 
 ```
-### GfxSetting_Vss_Gachi_DarkBlueYellow
+### GfxSetting_Vss_Gachi_DarkBlueYellow.params
 ```
 - 
 ```
-### GfxSetting_Vss_Gachi_GreenMazenta
+### GfxSetting_Vss_Gachi_GreenMazenta.params
 ```
 - 
 ```
-### GfxSetting_Vss_Gachi_GreenOrange
+### GfxSetting_Vss_Gachi_GreenOrange.params
 ```
 - 
 ```
-### GfxSetting_Vss_Gachi_LightgreenBlue
+### GfxSetting_Vss_Gachi_LightgreenBlue.params
 ```
 - 
 ```
-### GfxSetting_Vss_Gachi_LumigreenPurple
+### GfxSetting_Vss_Gachi_LumigreenPurple.params
 ```
 - 
 ```
-### GfxSetting_Vss_Gachi_SodaPink
+### GfxSetting_Vss_Gachi_SodaPink.params
 ```
 - 
 ```
-### GfxSetting_Vss_Gachi_YellowLilac
+### GfxSetting_Vss_Gachi_YellowLilac.params
 ```
 - 
 ```
-### GfxSetting_Vss_Option_BlueOrange
+### GfxSetting_Vss_Option_BlueOrange.params
 ```
 - 
 ```
-### GfxSetting_Vss_Regular_BlueLime
+### GfxSetting_Vss_Regular_BlueLime.params
 ```
 - 
 ```
-### GfxSetting_Vss_Regular_GreenPurple
+### GfxSetting_Vss_Regular_GreenPurple.params
 ```
 - 
 ```
-### GfxSetting_Vss_Regular_LightBlueDarkBlue
+### GfxSetting_Vss_Regular_LightBlueDarkBlue.params
 ```
 - 
 ```
-### GfxSetting_Vss_Regular_LightBlueYellow
+### GfxSetting_Vss_Regular_LightBlueYellow.params
 ```
 - 
 ```
-### GfxSetting_Vss_Regular_OrangeBlue_Default
+### GfxSetting_Vss_Regular_OrangeBlue_Default.params
 ```
 - 
 ```
-### GfxSetting_Vss_Regular_PinkBlue
+### GfxSetting_Vss_Regular_PinkBlue.params
 ```
 - 
 ```
-### GfxSetting_Vss_Regular_PinkGreen
+### GfxSetting_Vss_Regular_PinkGreen.params
 ```
 - 
 ```
-### GfxSetting_Vss_Regular_PinkOrange
+### GfxSetting_Vss_Regular_PinkOrange.params
 ```
 - 
 ```
-### GfxSetting_Vss_Regular_TurquoiseOrange
+### GfxSetting_Vss_Regular_TurquoiseOrange.params
 ```
 - 
 ```
-### IconCapture_Default.camera
+### IconCapture_Default.camera.params
 ```
 - 
 ```
-### JumpPlate
+### JumpPlate.params
 ```
 - 
 ```
-### LastBossDemo_CommanderCloseUp.camera
+### LastBossDemo_CommanderCloseUp.camera.params
 ```
 - 
 ```
-### LastBossDemo_CommanderFar.camera
+### LastBossDemo_CommanderFar.camera.params
 ```
 - 
 ```
-### LastBossDemo_LastBossCloseUp.camera
+### LastBossDemo_LastBossCloseUp.camera.params
 ```
 - 
 ```
-### LastBossDemo_PlayerBackFar.camera
+### LastBossDemo_PlayerBackFar.camera.params
 ```
 - 
 ```
-### LastBossDemo_PlayerFront.camera
+### LastBossDemo_PlayerFront.camera.params
 ```
 - 
 ```
-### Lft_HeavyCraneMachine_Anmltp
+### Lft_HeavyCraneMachine_Anmltp.params
 ```
 - 
 ```
-### Lobby_Default.camera
+### Lobby_Default.camera.params
 ```
 - 
 ```
-### Mission_Goal.camera
+### Mission_Goal.camera.params
 ```
 - 
 ```
-### MouthKing_BiteHit.camera
+### MouthKing_BiteHit.camera.params
 ```
 - 
 ```
-### NormalShotBlaze
+### NormalShotBlaze.params
 ```
 - 
 ```
-### NormalShotExpert
+### NormalShotExpert.params
 ```
 - 
 ```
-### NormalShotExplosionLight_Explosion
+### NormalShotExplosionLight_Explosion.params
 ```
 - 
 ```
-### NormalShotExplosionLight
+### NormalShotExplosionLight.params
 ```
 - 
 ```
-### NormalShotExplosionLightLong_Explosion
+### NormalShotExplosionLightLong_Explosion.params
 ```
 - 
 ```
-### NormalShotExplosionLightLong
+### NormalShotExplosionLightLong.params
 ```
 - 
 ```
-### NormalShotExplosionLong_Explosion
+### NormalShotExplosionLong_Explosion.params
 ```
 - 
 ```
-### NormalShotExplosionLong
+### NormalShotExplosionLong.params
 ```
 - 
 ```
-### NormalShotExplosionMiddle_Explosion
+### NormalShotExplosionMiddle_Explosion.params
 ```
 - 
 ```
-### NormalShotExplosionMiddle
+### NormalShotExplosionMiddle.params
 ```
 - 
 ```
-### NormalShotExplosionShort_Explosion
+### NormalShotExplosionShort_Explosion.params
 ```
 - 
 ```
-### NormalShotExplosionShort
+### NormalShotExplosionShort.params
 ```
 - 
 ```
-### NormalShotFirst
+### NormalShotFirst.params
 ```
 - 
 ```
-### NormalShotGravity
+### NormalShotGravity.params
 ```
 - 
 ```
-### NormalShotHeavy
+### NormalShotHeavy.params
 ```
 - 
 ```
-### NormalShotLong
+### NormalShotLong.params
 ```
 - 
 ```
-### NormalShotMsn0Lv0
+### NormalShotMsn0Lv0.params
 ```
 - 
 ```
-### NormalShotMsn0Lv1
+### NormalShotMsn0Lv1.params
 ```
 - 
 ```
-### NormalShotMsn0Lv2
+### NormalShotMsn0Lv2.params
 ```
 - 
 ```
-### NormalShotMsn0Lv3
+### NormalShotMsn0Lv3.params
 ```
 - 
 ```
-### NormalShotNormal
+### NormalShotNormal.params
 ```
 - 
 ```
-### NormalShotPrecision
+### NormalShotPrecision.params
 ```
 - 
 ```
-### NormalShotQuickLong
+### NormalShotQuickLong.params
 ```
 - 
 ```
-### NormalShotQuickMiddle
+### NormalShotQuickMiddle.params
 ```
 - 
 ```
-### NormalShotRvl0Lv0
+### NormalShotRvl0Lv0.params
 ```
 - 
 ```
-### NormalShotRvl0Lv1
+### NormalShotRvl0Lv1.params
 ```
 - 
 ```
-### NormalShotRvl0Lv2
+### NormalShotRvl0Lv2.params
 ```
 - 
 ```
-### NormalShotRvl0Lv3
+### NormalShotRvl0Lv3.params
 ```
 - 
 ```
-### NormalShotShort
+### NormalShotShort.params
 ```
 - 
 ```
-### NormalShotTripleMiddle
+### NormalShotTripleMiddle.params
 ```
 - 
 ```
-### NormalShotTripleQuick
+### NormalShotTripleQuick.params
 ```
 - 
 ```
-### Npc_Commander_Anmltp
+### Npc_Commander_Anmltp.params
 ```
 - 
 ```
-### Npc_CommanderBind_Anmltp
+### Npc_CommanderBind_Anmltp.params
 ```
 - 
 ```
-### Npc_CustomShop_Anmltp
+### Npc_CustomShop_Anmltp.params
 ```
 - 
 ```
-### Npc_IdolA_Anmltp
+### Npc_IdolA_Anmltp.params
 ```
 - 
 ```
-### Npc_IdolB_Anmltp
+### Npc_IdolB_Anmltp.params
 ```
 - 
 ```
-### NpcAssistantGear
+### NpcAssistantGear.params
 ```
 - 
 ```
-### NpcAssistantShoes
+### NpcAssistantShoes.params
 ```
 - 
 ```
-### NpcAssistantTshirts
+### NpcAssistantTshirts.params
 ```
 - 
 ```
-### NpcAssistantWeapon
+### NpcAssistantWeapon.params
 ```
 - 
 ```
-### Obj_AirBall_AnmItp
+### Obj_AirBall_AnmItp.params
 ```
 - 
 ```
-### Obj_AirBallDuel_AnmItp
+### Obj_AirBallDuel_AnmItp.params
 ```
 - 
 ```
-### Obj_AreaGate_AnmItp
+### Obj_AreaGate_AnmItp.params
 ```
 - 
 ```
-### Obj_AreaGate
+### Obj_AreaGate.params
 ```
 - 
 ```
-### Obj_BallkingPlateInside
+### Obj_BallkingPlateInside.params
 ```
 - 
 ```
-### Obj_BombFlower
+### Obj_BombFlower.params
 ```
 - 
 ```
-### Obj_BossGateway
+### Obj_BossGateway.params
 ```
 - 
 ```
-### Obj_CylinderKingBall
+### Obj_CylinderKingBall.params
 ```
 - 
 ```
-### Obj_CylinderKingBallBig
+### Obj_CylinderKingBallBig.params
 ```
 - 
 ```
-### Obj_CylinderKingBallBurst
+### Obj_CylinderKingBallBurst.params
 ```
 - 
 ```
-### Obj_CylinderKingBallSmall
+### Obj_CylinderKingBallSmall.params
 ```
 - 
 ```
-### Obj_DefenseTower
+### Obj_DefenseTower.params
 ```
 - 
 ```
-### Obj_GateManhole_AnmItp
+### Obj_GateManhole_AnmItp.params
 ```
 - 
 ```
-### Obj_GateManhole_Commander_AnmItp
+### Obj_GateManhole_Commander_AnmItp.params
 ```
 - 
 ```
-### Obj_GateManhole
+### Obj_GateManhole.params
 ```
 - 
 ```
-### Obj_Gateway
+### Obj_Gateway.params
 ```
 - 
 ```
-### Obj_Geyser
+### Obj_Geyser.params
 ```
 - 
 ```
-### Obj_Goal_Namazu_AnmItp
+### Obj_Goal_Namazu_AnmItp.params
 ```
 - 
 ```
-### Obj_Goal_NamazuDummy_AnmItp
+### Obj_Goal_NamazuDummy_AnmItp.params
 ```
 - 
 ```
-### Obj_Goal
+### Obj_Goal.params
 ```
 - 
 ```
-### Obj_Grass00_AnmItp
+### Obj_Grass00_AnmItp.params
 ```
 - 
 ```
-### Obj_Ikastone_AnmItp
+### Obj_Ikastone_AnmItp.params
 ```
 - 
 ```
-### Obj_Ikastone
+### Obj_Ikastone.params
 ```
 - 
 ```
-### Obj_InkRail
+### Obj_InkRail.params
 ```
 - 
 ```
-### Obj_JumpPoint
+### Obj_JumpPoint.params
 ```
 - 
 ```
-### Obj_KeyTreasureBox
+### Obj_KeyTreasureBox.params
 ```
 - 
 ```
-### Obj_LiftFall
+### Obj_LiftFall.params
 ```
 - 
 ```
-### Obj_MissilePosition
+### Obj_MissilePosition.params
 ```
 - 
 ```
-### Obj_RailKingPilotHouse_Pilot_AnmItp
+### Obj_RailKingPilotHouse_Pilot_AnmItp.params
 ```
 - 
 ```
-### Obj_RailKingPilotHouse
+### Obj_RailKingPilotHouse.params
 ```
 - 
 ```
-### Obj_SeaGull_AnmItp
+### Obj_SeaGull_AnmItp.params
 ```
 - 
 ```
-### Obj_SighterTarget_AnmItp
+### Obj_SighterTarget_AnmItp.params
 ```
 - 
 ```
-### Obj_SighterTarget
+### Obj_SighterTarget.params
 ```
 - 
 ```
-### Obj_Sponge
+### Obj_Sponge.params
 ```
 - 
 ```
-### Obj_Tree00_AnmItp
+### Obj_Tree00_AnmItp.params
 ```
 - 
 ```
-### Obj_Tree02_AnmItp
+### Obj_Tree02_AnmItp.params
 ```
 - 
 ```
-### Obj_WarpPointFlag
+### Obj_WarpPointFlag.params
 ```
 - 
 ```
-### Obj_ZakoPointUFO
+### Obj_ZakoPointUFO.params
 ```
 - 
 ```
-### PaintingLift
+### PaintingLift.params
 ```
 - 
 ```
-### Patrol_VSCapture.camera
+### Patrol_VSCapture.camera.params
 ```
 - 
 ```
-### Player_RivalSquid_BoneOffset
+### Player_RivalSquid_BoneOffset.params
 ```
 - 
 ```
-### Player_Spec_Attack_Up
+### Player_Spec_Attack_Up.params
 ```
 - 
 ```
-### Player_Spec_BombDistance_Up
+### Player_Spec_BombDistance_Up.params
 ```
 - 
 ```
-### Player_Spec_DamageRecovery_Up
+### Player_Spec_DamageRecovery_Up.params
 ```
 - 
 ```
-### Player_Spec_Defense_Up
+### Player_Spec_Defense_Up.params
 ```
 - 
 ```
-### Player_Spec_HumanMove_Up
+### Player_Spec_HumanMove_Up.params
 ```
 - 
 ```
-### Player_Spec_InkRecovery_Up
+### Player_Spec_InkRecovery_Up.params
 ```
 - 
 ```
-### Player_Spec_JumpTime_Save
+### Player_Spec_JumpTime_Save.params
 ```
 - 
 ```
-### Player_Spec_MainInk_Save
+### Player_Spec_MainInk_Save.params
 ```
 - 
 ```
-### Player_Spec_RespawnSpecialGauge_Save
+### Player_Spec_RespawnSpecialGauge_Save.params
 ```
 - 
 ```
-### Player_Spec_RespawnTime_Save
+### Player_Spec_RespawnTime_Save.params
 ```
 - 
 ```
-### Player_Spec_SpecialIncrease_Up
+### Player_Spec_SpecialIncrease_Up.params
 ```
 - 
 ```
-### Player_Spec_SpecialTime_Up
+### Player_Spec_SpecialTime_Up.params
 ```
 - 
 ```
-### Player_Spec_SquidMove_Up
+### Player_Spec_SquidMove_Up.params
 ```
 - 
 ```
-### Player_Spec_SubInk_Save
+### Player_Spec_SubInk_Save.params
 ```
 - 
 ```
-### PlayerMake.camera
+### PlayerMake.camera.params
 ```
 - 
 ```
-### Plaza_AmiiboLook.camera
+### Plaza_AmiiboLook.camera.params
 ```
 - 
 ```
-### Plaza_AmiiboTalk.camera
+### Plaza_AmiiboTalk.camera.params
 ```
 - 
 ```
-### Plaza_CustomShopLook.camera
+### Plaza_CustomShopLook.camera.params
 ```
 - 
 ```
-### Plaza_Demo_LookBackstreet.camera
+### Plaza_Demo_LookBackstreet.camera.params
 ```
 - 
 ```
-### Plaza_Demo_LookDuel.camera
+### Plaza_Demo_LookDuel.camera.params
 ```
 - 
 ```
-### Plaza_Demo_LookFestBoard.camera
+### Plaza_Demo_LookFestBoard.camera.params
 ```
 - 
 ```
-### Plaza_Demo_LookLobby.camera
+### Plaza_Demo_LookLobby.camera.params
 ```
 - 
 ```
-### Plaza_Demo_LookManhole.camera
+### Plaza_Demo_LookManhole.camera.params
 ```
 - 
 ```
-### Plaza_Demo_LookShop.camera
+### Plaza_Demo_LookShop.camera.params
 ```
 - 
 ```
-### Plaza_Demo_LookTower.camera
+### Plaza_Demo_LookTower.camera.params
 ```
 - 
 ```
-### Plaza_EndingView.camera
+### Plaza_EndingView.camera.params
 ```
 - 
 ```
-### Plaza_FestBoardLook.camera
+### Plaza_FestBoardLook.camera.params
 ```
 - 
 ```
-### Plaza_FestBoardLookOut.camera
+### Plaza_FestBoardLookOut.camera.params
 ```
 - 
 ```
-### Plaza_InfoView.camera
+### Plaza_InfoView.camera.params
 ```
 - 
 ```
-### Plaza_JudgeLook.camera
+### Plaza_JudgeLook.camera.params
 ```
 - 
 ```
-### Plaza_LookDoor.camera
+### Plaza_LookDoor.camera.params
 ```
 - 
 ```
-### Plaza_News.camera
+### Plaza_News.camera.params
 ```
 - 
 ```
-### Plaza_NpcLook.camera
+### Plaza_NpcLook.camera.params
 ```
 - 
 ```
-### Plaza_PostLook.camera
+### Plaza_PostLook.camera.params
 ```
 - 
 ```
-### Plaza_TitleView.camera
+### Plaza_TitleView.camera.params
 ```
 - 
 ```
-### Plaza_VideoGameLook.camera
+### Plaza_VideoGameLook.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Default_DRC.camera
+### PostGame_StageView_Default_DRC.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Default_TV.camera
+### PostGame_StageView_Default_TV.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_Amida00_DRC.camera
+### PostGame_StageView_Fld_Amida00_DRC.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_Amida00_TV.camera
+### PostGame_StageView_Fld_Amida00_TV.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_Athletic00_DRC.camera
+### PostGame_StageView_Fld_Athletic00_DRC.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_Athletic00_TV.camera
+### PostGame_StageView_Fld_Athletic00_TV.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_Crank00_DRC.camera
+### PostGame_StageView_Fld_Crank00_DRC.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_Crank00_TV.camera
+### PostGame_StageView_Fld_Crank00_TV.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_Crank01_DRC.camera
+### PostGame_StageView_Fld_Crank01_DRC.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_Crank01_TV.camera
+### PostGame_StageView_Fld_Crank01_TV.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_Hiagari00_DRC.camera
+### PostGame_StageView_Fld_Hiagari00_DRC.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_Hiagari00_TV.camera
+### PostGame_StageView_Fld_Hiagari00_TV.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_Jyoheki00_DRC.camera
+### PostGame_StageView_Fld_Jyoheki00_DRC.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_Jyoheki00_TV.camera
+### PostGame_StageView_Fld_Jyoheki00_TV.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_Kaisou00_DRC.camera
+### PostGame_StageView_Fld_Kaisou00_DRC.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_Kaisou00_TV.camera
+### PostGame_StageView_Fld_Kaisou00_TV.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_Maze00_DRC.camera
+### PostGame_StageView_Fld_Maze00_DRC.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_Maze00_TV.camera
+### PostGame_StageView_Fld_Maze00_TV.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_Office00_DRC.camera
+### PostGame_StageView_Fld_Office00_DRC.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_Office00_TV.camera
+### PostGame_StageView_Fld_Office00_TV.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_Pivot00_DRC.camera
+### PostGame_StageView_Fld_Pivot00_DRC.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_Pivot00_TV.camera
+### PostGame_StageView_Fld_Pivot00_TV.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_Quarry00_DRC.camera
+### PostGame_StageView_Fld_Quarry00_DRC.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_Quarry00_TV.camera
+### PostGame_StageView_Fld_Quarry00_TV.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_Ruins00_DRC.camera
+### PostGame_StageView_Fld_Ruins00_DRC.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_Ruins00_TV.camera
+### PostGame_StageView_Fld_Ruins00_TV.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_SeaPlant00_DRC.camera
+### PostGame_StageView_Fld_SeaPlant00_DRC.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_SeaPlant00_TV.camera
+### PostGame_StageView_Fld_SeaPlant00_TV.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_ShootingRange_DRC.camera
+### PostGame_StageView_Fld_ShootingRange_DRC.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_SkatePark00_DRC.camera
+### PostGame_StageView_Fld_SkatePark00_DRC.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_SkatePark00_TV.camera
+### PostGame_StageView_Fld_SkatePark00_TV.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_Tuzura00_DRC.camera
+### PostGame_StageView_Fld_Tuzura00_DRC.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_Tuzura00_TV.camera
+### PostGame_StageView_Fld_Tuzura00_TV.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_UpDown00_DRC.camera
+### PostGame_StageView_Fld_UpDown00_DRC.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_UpDown00_TV.camera
+### PostGame_StageView_Fld_UpDown00_TV.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_Warehouse00_DRC.camera
+### PostGame_StageView_Fld_Warehouse00_DRC.camera.params
 ```
 - 
 ```
-### PostGame_StageView_Fld_Warehouse00_TV.camera
+### PostGame_StageView_Fld_Warehouse00_TV.camera.params
 ```
 - 
 ```
-### PostGame_StageView_TestField218_DRC.camera
+### PostGame_StageView_TestField218_DRC.camera.params
 ```
 - 
 ```
-### PostGame_StageView_TestField712_DRC.camera
+### PostGame_StageView_TestField712_DRC.camera.params
 ```
 - 
 ```
-### PreGame_PlayerView_Default_Friend.camera
+### PreGame_PlayerView_Default_Friend.camera.params
 ```
 - 
 ```
-### PreGame_PlayerView_Default_Opposite.camera
+### PreGame_PlayerView_Default_Opposite.camera.params
 ```
 - 
 ```
-### PreGame_StageView.camera
+### PreGame_StageView.camera.params
 ```
 - 
 ```
-### RollerBrushMini
+### RollerBrushMini.params
 ```
 - 
 ```
-### RollerBrushNormal
+### RollerBrushNormal.params
 ```
 - 
 ```
-### RollerCompact
+### RollerCompact.params
 ```
 - 
 ```
-### RollerHeavy
+### RollerHeavy.params
 ```
 - 
 ```
-### RollerKingSquid
+### RollerKingSquid.params
 ```
 - 
 ```
-### RollerMission
+### RollerMission.params
 ```
 - 
 ```
-### RollerNormal
+### RollerNormal.params
 ```
 - 
 ```
-### ShopDefault.camera
+### ShopDefault.camera.params
 ```
 - 
 ```
-### StaffRoll.camera
+### StaffRoll.camera.params
 ```
 - 
 ```
-### TakopterTornado_DieDemo.camera
+### TakopterTornado_DieDemo.camera.params
 ```
 - 
 ```
-### Trap
+### Trap.params
 ```
 - 
 ```
-### TurnPlate
+### TurnPlate.params
 ```
 - 
 ```
-### Tutorial_SuperJumpToPlaza.camera
+### Tutorial_SuperJumpToPlaza.camera.params
 ```
 - 
 ```
-### World_AllClearDemo_Area1Long.camera
+### World_AllClearDemo_Area1Long.camera.params
 ```
 - 
 ```
-### World_AllClearDemo_PlayerCommanderLong.camera
+### World_AllClearDemo_PlayerCommanderLong.camera.params
 ```
 - 
 ```
-### World_AllClearDemo_RailKingPilotCloseUp.camera
+### World_AllClearDemo_RailKingPilotCloseUp.camera.params
 ```
 - 
 ```
-### World_AreaInDemo_LastBossUfo.camera
+### World_AreaInDemo_LastBossUfo.camera.params
 ```
 - 
 ```
-### World_AreaOpenDemo_Concent.camera
+### World_AreaOpenDemo_Concent.camera.params
 ```
 - 
 ```
-### World_AreaOpenDemo.camera
+### World_AreaOpenDemo.camera.params
 ```
 - 
 ```
-### World_BossGatewayOpenDemo.camera
+### World_BossGatewayOpenDemo.camera.params
 ```
 - 
 ```
-### World_FirstEntryDemo_Commander.camera
+### World_FirstEntryDemo_Commander.camera.params
 ```
 - 
 ```
-### World_FirstEntryDemo_CommanderCloseUp.camera
+### World_FirstEntryDemo_CommanderCloseUp.camera.params
 ```
 - 
 ```
-### World_FirstEntryDemo_CommanderHQ.camera
+### World_FirstEntryDemo_CommanderHQ.camera.params
 ```
 - 
 ```
-### World_FirstEntryDemo_CommanderLookUp.camera
+### World_FirstEntryDemo_CommanderLookUp.camera.params
 ```
 - 
 ```
-### World_FirstEntryDemo_CommanderOverShoulder.camera
+### World_FirstEntryDemo_CommanderOverShoulder.camera.params
 ```
 - 
 ```
-### World_FirstEntryDemo_CommanderTalk.camera
+### World_FirstEntryDemo_CommanderTalk.camera.params
 ```
 - 
 ```
-### World_FirstEntryDemo_HeroSuit.camera
+### World_FirstEntryDemo_HeroSuit.camera.params
 ```
 - 
 ```
-### World_FirstEntryDemo_HQDummy.camera
+### World_FirstEntryDemo_HQDummy.camera.params
 ```
 - 
 ```
-### World_FirstEntryDemo_World.camera
+### World_FirstEntryDemo_World.camera.params
 ```
 - 
 ```
-### World_StaffRollObjEntryDemo.camera
+### World_StaffRollObjEntryDemo.camera.params
 ```
 - 
 ```
-### World_StaffRollObjEntryDemoCloseUp.camera
+### World_StaffRollObjEntryDemoCloseUp.camera.params
 ```
 - 
 ```
-### Wsb_Shield
+### Wsb_Shield.params
 ```
 - 
 ```
-### Wsp_Shachihoko
+### Wsp_Shachihoko.params
 ```
 - 
 ```
