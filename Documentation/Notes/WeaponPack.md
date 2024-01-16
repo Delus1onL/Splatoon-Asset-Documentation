@@ -1,5 +1,5 @@
 # Weapon.pack
-This pack holds all the weapons originally released with the game, without updates, whereas the rest of the weapons are separate `.szs` in the `/content/Models` directory.
+This pack holds all the weapons originally released with the game, without updates (like no Sheldon's Picks; the rest of the weapons are separate `.szs` in the `/content/Models` directory.)
 
 ## Wmn_Charge_Light.szs
 ### Bamboozler 14 Mk I
