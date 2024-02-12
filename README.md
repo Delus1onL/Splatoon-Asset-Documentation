@@ -1,5 +1,5 @@
-# Splatoon Documentation
-Documenting Splatoon for both decompiling purposes and Splatoon on 3DS.
+# Splatoon Asset Documentation
+Documenting Splatoon for both decompiling purposes and to advance the homebrew and modding scene.
 
 ## Why?
 I started a project in March 2023 with the goal of porting Splatoon to the 3DS family. We named it Splatoon Legends because of the April Fools video. My part to play is attempting to decompile, while the other willing developers will remake it using devkitpro. I will use Ghidra, Switch Toolbox, MSBT Editor, HxD, Cemu, WiiU, and wiiurpxtool for my part.
